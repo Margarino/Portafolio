@@ -1,0 +1,123 @@
+C:\Users\iquir\Desktop\PORTAFOLIO\Portafolio de titulo\clientapp\tablesttest\bin\Debug\net6.0-windows\tablesttest.exe
+C:\Users\iquir\Desktop\PORTAFOLIO\Portafolio de titulo\clientapp\tablesttest\bin\Debug\net6.0-windows\tablesttest.deps.json
+C:\Users\iquir\Desktop\PORTAFOLIO\Portafolio de titulo\clientapp\tablesttest\bin\Debug\net6.0-windows\tablesttest.runtimeconfig.json
+C:\Users\iquir\Desktop\PORTAFOLIO\Portafolio de titulo\clientapp\tablesttest\bin\Debug\net6.0-windows\tablesttest.dll
+C:\Users\iquir\Desktop\PORTAFOLIO\Portafolio de titulo\clientapp\tablesttest\bin\Debug\net6.0-windows\tablesttest.pdb
+C:\Users\iquir\Desktop\PORTAFOLIO\Portafolio de titulo\clientapp\tablesttest\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\iquir\Desktop\PORTAFOLIO\Portafolio de titulo\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\iquir\Desktop\PORTAFOLIO\Portafolio de titulo\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\iquir\Desktop\PORTAFOLIO\Portafolio de titulo\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\iquir\Desktop\PORTAFOLIO\Portafolio de titulo\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\iquir\Desktop\PORTAFOLIO\Portafolio de titulo\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\iquir\Desktop\PORTAFOLIO\Portafolio de titulo\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\iquir\Desktop\PORTAFOLIO\Portafolio de titulo\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\iquir\Desktop\PORTAFOLIO\Portafolio de titulo\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\iquir\Desktop\PORTAFOLIO\Portafolio de titulo\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\iquir\Desktop\PORTAFOLIO\Portafolio de titulo\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\iquir\Desktop\PORTAFOLIO\Portafolio de titulo\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\iquir\Desktop\PORTAFOLIO\Portafolio de titulo\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\iquir\Desktop\PORTAFOLIO\Portafolio de titulo\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\iquir\Desktop\PORTAFOLIO\Portafolio de titulo\clientapp\tablesttest\bin\Debug\net6.0-windows\Oracle.EntityFrameworkCore.dll
+C:\Users\iquir\Desktop\PORTAFOLIO\Portafolio de titulo\clientapp\tablesttest\bin\Debug\net6.0-windows\Oracle.ManagedDataAccess.dll
+C:\Users\iquir\Desktop\PORTAFOLIO\Portafolio de titulo\clientapp\tablesttest\bin\Debug\net6.0-windows\System.DirectoryServices.Protocols.dll
+C:\Users\iquir\Desktop\PORTAFOLIO\Portafolio de titulo\clientapp\tablesttest\bin\Debug\net6.0-windows\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\iquir\Desktop\PORTAFOLIO\Portafolio de titulo\clientapp\tablesttest\bin\Debug\net6.0-windows\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\iquir\Desktop\PORTAFOLIO\Portafolio de titulo\clientapp\tablesttest\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\iquir\Desktop\PORTAFOLIO\Portafolio de titulo\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.csproj.AssemblyReference.cache
+C:\Users\iquir\Desktop\PORTAFOLIO\Portafolio de titulo\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.Form1.resources
+C:\Users\iquir\Desktop\PORTAFOLIO\Portafolio de titulo\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.csproj.GenerateResource.cache
+C:\Users\iquir\Desktop\PORTAFOLIO\Portafolio de titulo\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iquir\Desktop\PORTAFOLIO\Portafolio de titulo\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.AssemblyInfoInputs.cache
+C:\Users\iquir\Desktop\PORTAFOLIO\Portafolio de titulo\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.AssemblyInfo.cs
+C:\Users\iquir\Desktop\PORTAFOLIO\Portafolio de titulo\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.csproj.CoreCompileInputs.cache
+C:\Users\iquir\Desktop\PORTAFOLIO\Portafolio de titulo\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.csproj.CopyComplete
+C:\Users\iquir\Desktop\PORTAFOLIO\Portafolio de titulo\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.dll
+C:\Users\iquir\Desktop\PORTAFOLIO\Portafolio de titulo\clientapp\tablesttest\obj\Debug\net6.0-windows\refint\tablesttest.dll
+C:\Users\iquir\Desktop\PORTAFOLIO\Portafolio de titulo\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.pdb
+C:\Users\iquir\Desktop\PORTAFOLIO\Portafolio de titulo\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.genruntimeconfig.cache
+C:\Users\iquir\Desktop\PORTAFOLIO\Portafolio de titulo\clientapp\tablesttest\obj\Debug\net6.0-windows\ref\tablesttest.dll
+C:\Users\fried\OneDrive\Escritorio\tablesttest\bin\Debug\net6.0-windows\tablesttest.exe
+C:\Users\fried\OneDrive\Escritorio\tablesttest\bin\Debug\net6.0-windows\tablesttest.deps.json
+C:\Users\fried\OneDrive\Escritorio\tablesttest\bin\Debug\net6.0-windows\tablesttest.runtimeconfig.json
+C:\Users\fried\OneDrive\Escritorio\tablesttest\bin\Debug\net6.0-windows\tablesttest.dll
+C:\Users\fried\OneDrive\Escritorio\tablesttest\bin\Debug\net6.0-windows\tablesttest.pdb
+C:\Users\fried\OneDrive\Escritorio\tablesttest\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\fried\OneDrive\Escritorio\tablesttest\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\fried\OneDrive\Escritorio\tablesttest\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\fried\OneDrive\Escritorio\tablesttest\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\fried\OneDrive\Escritorio\tablesttest\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\fried\OneDrive\Escritorio\tablesttest\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\fried\OneDrive\Escritorio\tablesttest\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\fried\OneDrive\Escritorio\tablesttest\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\fried\OneDrive\Escritorio\tablesttest\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\fried\OneDrive\Escritorio\tablesttest\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\fried\OneDrive\Escritorio\tablesttest\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\fried\OneDrive\Escritorio\tablesttest\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\fried\OneDrive\Escritorio\tablesttest\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\fried\OneDrive\Escritorio\tablesttest\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\fried\OneDrive\Escritorio\tablesttest\bin\Debug\net6.0-windows\Oracle.EntityFrameworkCore.dll
+C:\Users\fried\OneDrive\Escritorio\tablesttest\bin\Debug\net6.0-windows\Oracle.ManagedDataAccess.dll
+C:\Users\fried\OneDrive\Escritorio\tablesttest\bin\Debug\net6.0-windows\System.DirectoryServices.Protocols.dll
+C:\Users\fried\OneDrive\Escritorio\tablesttest\bin\Debug\net6.0-windows\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\fried\OneDrive\Escritorio\tablesttest\bin\Debug\net6.0-windows\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\fried\OneDrive\Escritorio\tablesttest\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\fried\OneDrive\Escritorio\tablesttest\obj\Debug\net6.0-windows\tablesttest.csproj.AssemblyReference.cache
+C:\Users\fried\OneDrive\Escritorio\tablesttest\obj\Debug\net6.0-windows\tablesttest.Properties.Resources.resources
+C:\Users\fried\OneDrive\Escritorio\tablesttest\obj\Debug\net6.0-windows\tablesttest.csproj.GenerateResource.cache
+C:\Users\fried\OneDrive\Escritorio\tablesttest\obj\Debug\net6.0-windows\tablesttest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fried\OneDrive\Escritorio\tablesttest\obj\Debug\net6.0-windows\tablesttest.AssemblyInfoInputs.cache
+C:\Users\fried\OneDrive\Escritorio\tablesttest\obj\Debug\net6.0-windows\tablesttest.AssemblyInfo.cs
+C:\Users\fried\OneDrive\Escritorio\tablesttest\obj\Debug\net6.0-windows\tablesttest.csproj.CoreCompileInputs.cache
+C:\Users\fried\OneDrive\Escritorio\tablesttest\obj\Debug\net6.0-windows\tablesttest.csproj.CopyComplete
+C:\Users\fried\OneDrive\Escritorio\tablesttest\obj\Debug\net6.0-windows\tablesttest.dll
+C:\Users\fried\OneDrive\Escritorio\tablesttest\obj\Debug\net6.0-windows\refint\tablesttest.dll
+C:\Users\fried\OneDrive\Escritorio\tablesttest\obj\Debug\net6.0-windows\tablesttest.pdb
+C:\Users\fried\OneDrive\Escritorio\tablesttest\obj\Debug\net6.0-windows\tablesttest.genruntimeconfig.cache
+C:\Users\fried\OneDrive\Escritorio\tablesttest\obj\Debug\net6.0-windows\ref\tablesttest.dll
+C:\Users\fried\OneDrive\Escritorio\tablesttest\obj\Debug\net6.0-windows\tablesttest.ViewOrden.resources
+C:\Users\fried\OneDrive\Escritorio\tablesttest\obj\Debug\net6.0-windows\tablesttest.ViewBebida.resources
+C:\Users\fried\OneDrive\Escritorio\tablesttest\obj\Debug\net6.0-windows\tablesttest.MUser.resources
+C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\tablesttest.exe
+C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\tablesttest.deps.json
+C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\tablesttest.runtimeconfig.json
+C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\tablesttest.dll
+C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\tablesttest.pdb
+C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\Oracle.EntityFrameworkCore.dll
+C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\Oracle.ManagedDataAccess.dll
+C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\System.DirectoryServices.Protocols.dll
+C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.csproj.AssemblyReference.cache
+C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.MUser.resources
+C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.Properties.Resources.resources
+C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.ViewBebida.resources
+C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.ViewOrden.resources
+C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.csproj.GenerateResource.cache
+C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.AssemblyInfoInputs.cache
+C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.AssemblyInfo.cs
+C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.csproj.CoreCompileInputs.cache
+C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.csproj.CopyComplete
+C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.dll
+C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\obj\Debug\net6.0-windows\refint\tablesttest.dll
+C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.pdb
+C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.genruntimeconfig.cache
+C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\obj\Debug\net6.0-windows\ref\tablesttest.dll
+C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.Login.resources
+C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.LoginUser.resources
+C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.Form1.resources

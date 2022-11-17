@@ -1,0 +1,42 @@
+﻿@model IEnumerable<crudBodega.Models.Ingrediente>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Ínicio</h1>
+
+<p>
+    <a asp-action="Create">Crear nuevo</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+
+                <a>Nombre Ingrediente</a>
+            </th>
+            <th>
+                <a>Precio Ingrediente</a>
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nombreingrediente)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Precioingrediente)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Idingrediente">Editar</a> |
+                <a asp-action="Details" asp-route-id="@item.Idingrediente">Detalles</a> |
+                <a asp-action="Delete" asp-route-id="@item.Idingrediente">Eliminar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

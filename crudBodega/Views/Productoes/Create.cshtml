@@ -1,0 +1,43 @@
+﻿@model crudBodega.Models.Producto
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Crear</h1>
+
+<h4>Producto</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Idproducto" class="control-label">Id Producto</label>
+                <input asp-for="Idproducto" class="form-control" />
+                <span asp-validation-for="Idproducto" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Descripcionproducto" class="control-label">Descripción Producto</label>
+                <input asp-for="Descripcionproducto" class="form-control" />
+                <span asp-validation-for="Descripcionproducto" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Valorproducto" class="control-label">Valor Producto</label>
+                <input asp-for="Valorproducto" class="form-control" />
+                <span asp-validation-for="Valorproducto" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Crear" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Volver a la lista</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

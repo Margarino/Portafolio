@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "tablesttest": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\fried\\Escritorio\\Clientev3\\clientapp",
+      "jsWebView2Debugging": true,
+      "sqlDebugging": true,
+      "remoteDebugEnabled": true,
+      "authenticationMode": "Windows",
+      "nativeDebugging": true
+    }
+  }
+}

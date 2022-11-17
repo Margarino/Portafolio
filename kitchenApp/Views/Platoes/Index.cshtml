@@ -1,0 +1,41 @@
+﻿@model IEnumerable<kitchenApp.Models.Plato>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nombreplato)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Descripcionplato)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nombreplato)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Descripcionplato)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Idplato">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Idplato">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Idplato">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

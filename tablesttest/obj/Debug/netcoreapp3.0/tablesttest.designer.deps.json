@@ -1,0 +1,29 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Microsoft.EntityFrameworkCore.Tools/6.0.10": {},
+      "Oracle.EntityFrameworkCore/6.21.61": {}
+    }
+  },
+  "libraries": {
+    "Microsoft.EntityFrameworkCore.Tools/6.0.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LWQvCb3lmTxkcnzO8H0ib0Ot/Pow9Kubt2iqvhhAHEbhs7SS1ygB938EpmuD9o1yyyliAg6FHln5o6jVfEkdyQ==",
+      "path": "microsoft.entityframeworkcore.tools/6.0.10",
+      "hashPath": "microsoft.entityframeworkcore.tools.6.0.10.nupkg.sha512"
+    },
+    "Oracle.EntityFrameworkCore/6.21.61": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-X8vCHqyexPekPyoiUkoQMVxXzsB8QBKM8C1noFrTEev5/AgfnyGDgzfoF9Y8MDUS4jSiVzJafqc/olk7TlBWoA==",
+      "path": "oracle.entityframeworkcore/6.21.61",
+      "hashPath": "oracle.entityframeworkcore.6.21.61.nupkg.sha512"
+    }
+  }
+}

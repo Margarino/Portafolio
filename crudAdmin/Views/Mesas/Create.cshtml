@@ -1,0 +1,43 @@
+﻿@model crudAdmin.Models.Mesa
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Formulario creación</h1>
+
+<h4>Mesa</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Idmesa" class="control-label">Número de mesa</label>
+                <input asp-for="Idmesa" class="form-control" />
+                <span asp-validation-for="Idmesa" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Aforomaximo" class="control-label">Aforo máximo</label>
+                <input asp-for="Aforomaximo" class="form-control" />
+                <span asp-validation-for="Aforomaximo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Estadomesa" class="control-label">Estado de la mesa</label>
+                <input asp-for="Estadomesa" class="form-control" />
+                <span asp-validation-for="Estadomesa" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Crear" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Volver a la lista</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

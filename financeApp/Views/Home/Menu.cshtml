@@ -1,0 +1,35 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Crud Bodega</h1>
+    <p>Es realmente el crud de administrador pero sin las cosas de administrador</p>
+</div>
+
+
+<div class="container-fluid">
+    <a href="/Ingresoes/Index">>Ingresos</a>
+</div>
+
+<div class="container-fluid">
+    <a href="/Egresoes/Index">>Egresos</a>
+</div>
+
+    @{Html.BeginForm("income", "Home", FormMethod.Get);
+        {
+            <div class="finanzas">
+                <input type="submit" value="Income" style="width:250px;height:27px" />
+            </div>
+        }
+        Html.EndForm();
+    }
+
+    @{Html.BeginForm("outcome", "Home", FormMethod.Get);
+        {
+            <div class="finanzas">
+                <input type="submit" value="Outcome" style="width:250px;height:27px" />
+            </div>
+        }
+        Html.EndForm();
+    }

@@ -1,0 +1,47 @@
+﻿@model IEnumerable<crudAdmin.Models.Mesa>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Índice</h1>
+
+<p>
+    <a asp-action="Create">Crear nueva mesa</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                <a>Número de mesa</a>
+            </th>
+            <th>
+                <a>Aforo máximo</a>
+            </th>
+            <th>
+                <a>Estado de la mesa</a>
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Idmesa)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Aforomaximo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Estadomesa)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Idmesa">Editar</a> 
+                <a asp-action="Details" asp-route-id="@item.Idmesa">Detalles</a> 
+                <a asp-action="Delete" asp-route-id="@item.Idmesa">Eliminar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

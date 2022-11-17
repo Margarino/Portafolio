@@ -1,0 +1,30 @@
+﻿@model crudAdmin.Models.Pedido
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Detalles</h1>
+
+<div>
+    <h4>Pedidos</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            <a>Cantidad pedido</a>
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Contpedido)
+        </dd>
+        <dt class = "col-sm-2">
+            <a>Rut solicitante</a>
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Rut)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Idpedido">Editar</a> |
+    <a asp-action="Index">Volver a la lista</a>
+</div>

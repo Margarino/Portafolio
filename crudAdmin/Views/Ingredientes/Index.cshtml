@@ -1,0 +1,37 @@
+﻿@model IEnumerable<crudAdmin.Models.Ingrediente>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Índice</h1>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                <a>Nombre ingrediente</a>
+            </th>
+            <th>
+                <a>Precio Ingrediente</a>
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nombreingrediente)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Precioingrediente)
+            </td>
+            <td>              
+                <a asp-action="Details" asp-route-id="@item.Idingrediente">Detalles</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
