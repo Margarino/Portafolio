@@ -56,7 +56,7 @@ namespace kitchenApp.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Idorden,Contenidoorden,Estadopedido,Total,Idmesa")] Orden orden)
+        public async Task<IActionResult> Create([Bind("Idorden,Contenidoorden,Estadoorden,Total,Idmesa")] Orden orden)
         {
             if (ModelState.IsValid)
             {
@@ -68,7 +68,7 @@ namespace kitchenApp.Controllers
             return View(orden);
         }
 
-        // GET: Ordens/Edit/5B
+        // GET: Ordens/Edit/5
         public async Task<IActionResult> Edit(decimal? id)
         {
             if (id == null || _context.Ordens == null)
@@ -90,7 +90,7 @@ namespace kitchenApp.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(decimal id, [Bind("Idorden,Contenidoorden,Estadopedido,Total,Idmesa")] Orden orden)
+        public async Task<IActionResult> Edit(decimal id, [Bind("Idorden,Contenidoorden,Estadoorden,Total,Idmesa")] Orden orden)
         {
             if (id != orden.Idorden)
             {
@@ -163,5 +163,50 @@ namespace kitchenApp.Controllers
         {
           return _context.Ordens.Any(e => e.Idorden == id);
         }
+
+
+
+
+
+
+
+
+        public async Task<IActionResult> changeOrderOngoing(decimal id, Orden orden)
+        {
+            var context = new ModelContext();
+            var result = context.Ordens.SingleOrDefault(b => b.Idorden == id);
+            if (result != null)
+            {
+                result.Estadoorden = "en proceso";
+                context.SaveChanges();
+            }
+
+
+            return RedirectToAction(nameof(Index));
+        }
+
+        public async Task<IActionResult> changeOrderOngoing2(decimal id, Orden orden)
+        {
+            var context = new ModelContext();
+            var result = context.Ordens.SingleOrDefault(b => b.Idorden == id);
+            if (result != null)
+            {
+                result.Estadoorden = "despachado";
+                context.SaveChanges();
+            }
+
+
+            return RedirectToAction(nameof(Index));
+        }
+
+
+
+
+
+
+
+
+
+
     }
 }

@@ -5,121 +5,120 @@ build_property.UsingMicrosoftNETSdkWeb = true
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
-build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = clientwebapp
 build_property.RootNamespace = clientwebapp
-build_property.ProjectDir = C:\Users\crist\Desktop\Clientev3\clientapp\clientwebapp\
+build_property.ProjectDir = N:\Repo\Portafolio\clientwebapp\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\crist\Desktop\Clientev3\clientapp\clientwebapp
+build_property.MSBuildProjectDirectory = N:\Repo\Portafolio\clientwebapp
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/crist/Desktop/Clientev3/clientapp/clientwebapp/Views/Home/Index.cshtml]
+[N:/Repo/Portafolio/clientwebapp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/crist/Desktop/Clientev3/clientapp/clientwebapp/Views/Home/Privacy.cshtml]
+[N:/Repo/Portafolio/clientwebapp/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/crist/Desktop/Clientev3/clientapp/clientwebapp/Views/Mesas/Create.cshtml]
+[N:/Repo/Portafolio/clientwebapp/Views/Mesas/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzYXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/crist/Desktop/Clientev3/clientapp/clientwebapp/Views/Mesas/Delete.cshtml]
+[N:/Repo/Portafolio/clientwebapp/Views/Mesas/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzYXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/crist/Desktop/Clientev3/clientapp/clientwebapp/Views/Mesas/Details.cshtml]
+[N:/Repo/Portafolio/clientwebapp/Views/Mesas/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzYXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/crist/Desktop/Clientev3/clientapp/clientwebapp/Views/Mesas/Edit.cshtml]
+[N:/Repo/Portafolio/clientwebapp/Views/Mesas/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzYXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/crist/Desktop/Clientev3/clientapp/clientwebapp/Views/Mesas/Index.cshtml]
+[N:/Repo/Portafolio/clientwebapp/Views/Mesas/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzYXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/crist/Desktop/Clientev3/clientapp/clientwebapp/Views/Ordens/Create.cshtml]
+[N:/Repo/Portafolio/clientwebapp/Views/Ordens/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZW5zXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/crist/Desktop/Clientev3/clientapp/clientwebapp/Views/Ordens/Delete.cshtml]
+[N:/Repo/Portafolio/clientwebapp/Views/Ordens/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZW5zXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/crist/Desktop/Clientev3/clientapp/clientwebapp/Views/Ordens/Details.cshtml]
+[N:/Repo/Portafolio/clientwebapp/Views/Ordens/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZW5zXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/crist/Desktop/Clientev3/clientapp/clientwebapp/Views/Ordens/Edit.cshtml]
+[N:/Repo/Portafolio/clientwebapp/Views/Ordens/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZW5zXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/crist/Desktop/Clientev3/clientapp/clientwebapp/Views/Ordens/Index.cshtml]
+[N:/Repo/Portafolio/clientwebapp/Views/Ordens/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZW5zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/crist/Desktop/Clientev3/clientapp/clientwebapp/Views/Pedidoes/Create.cshtml]
+[N:/Repo/Portafolio/clientwebapp/Views/Pedidoes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/crist/Desktop/Clientev3/clientapp/clientwebapp/Views/Pedidoes/Delete.cshtml]
+[N:/Repo/Portafolio/clientwebapp/Views/Pedidoes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/crist/Desktop/Clientev3/clientapp/clientwebapp/Views/Pedidoes/Details.cshtml]
+[N:/Repo/Portafolio/clientwebapp/Views/Pedidoes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/crist/Desktop/Clientev3/clientapp/clientwebapp/Views/Pedidoes/Edit.cshtml]
+[N:/Repo/Portafolio/clientwebapp/Views/Pedidoes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/crist/Desktop/Clientev3/clientapp/clientwebapp/Views/Pedidoes/Index.cshtml]
+[N:/Repo/Portafolio/clientwebapp/Views/Pedidoes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/crist/Desktop/Clientev3/clientapp/clientwebapp/Views/Platoes/Create.cshtml]
+[N:/Repo/Portafolio/clientwebapp/Views/Platoes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhdG9lc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/crist/Desktop/Clientev3/clientapp/clientwebapp/Views/Platoes/Delete.cshtml]
+[N:/Repo/Portafolio/clientwebapp/Views/Platoes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhdG9lc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/crist/Desktop/Clientev3/clientapp/clientwebapp/Views/Platoes/Details.cshtml]
+[N:/Repo/Portafolio/clientwebapp/Views/Platoes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhdG9lc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/crist/Desktop/Clientev3/clientapp/clientwebapp/Views/Platoes/Edit.cshtml]
+[N:/Repo/Portafolio/clientwebapp/Views/Platoes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhdG9lc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/crist/Desktop/Clientev3/clientapp/clientwebapp/Views/Platoes/Index.cshtml]
+[N:/Repo/Portafolio/clientwebapp/Views/Platoes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhdG9lc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/crist/Desktop/Clientev3/clientapp/clientwebapp/Views/Shared/Error.cshtml]
+[N:/Repo/Portafolio/clientwebapp/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/crist/Desktop/Clientev3/clientapp/clientwebapp/Views/Shared/_ValidationScriptsPartial.cshtml]
+[N:/Repo/Portafolio/clientwebapp/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/crist/Desktop/Clientev3/clientapp/clientwebapp/Views/_ViewImports.cshtml]
+[N:/Repo/Portafolio/clientwebapp/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/crist/Desktop/Clientev3/clientapp/clientwebapp/Views/_ViewStart.cshtml]
+[N:/Repo/Portafolio/clientwebapp/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/crist/Desktop/Clientev3/clientapp/clientwebapp/Views/Shared/_Layout.cshtml]
+[N:/Repo/Portafolio/clientwebapp/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-u54aszq4lr

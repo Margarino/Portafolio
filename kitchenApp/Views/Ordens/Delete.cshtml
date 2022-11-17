@@ -18,10 +18,10 @@
             @Html.DisplayFor(model => model.Contenidoorden)
         </dd>
         <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Estadopedido)
+            @Html.DisplayNameFor(model => model.Estadoorden)
         </dt>
         <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Estadopedido)
+            @Html.DisplayFor(model => model.Estadoorden)
         </dd>
         <dt class = "col-sm-2">
             @Html.DisplayNameFor(model => model.Total)
@@ -36,34 +36,7 @@
             @Html.DisplayFor(model => model.IdmesaNavigation.Idmesa)
         </dd>
     </dl>
-  @foreach (var item in Model) {
-    <dl class="row">
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Contenidoorden)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Contenidoorden)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Estadopedido)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Estadopedido)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Total)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Total)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.IdmesaNavigation)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.IdmesaNavigation.Idmesa)
-        </dd>
-    </dl>
-  }  
+    
     <form asp-action="Delete">
         <input type="hidden" asp-for="Idorden" />
         <input type="submit" value="Delete" class="btn btn-danger" /> |

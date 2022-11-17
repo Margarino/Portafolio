@@ -21,7 +21,8 @@ namespace kitchenApp.Controllers
         // GET: Platoes
         public async Task<IActionResult> Index()
         {
-              return View(await _context.Platos.ToListAsync());
+            var modelContext = _context.Platos.Include(p => p.IdrecetaNavigation);
+            return View(await modelContext.ToListAsync());
         }
 
         // GET: Platoes/Details/5
@@ -33,6 +34,7 @@ namespace kitchenApp.Controllers
             }
 
             var plato = await _context.Platos
+                .Include(p => p.IdrecetaNavigation)
                 .FirstOrDefaultAsync(m => m.Idplato == id);
             if (plato == null)
             {
@@ -45,6 +47,7 @@ namespace kitchenApp.Controllers
         // GET: Platoes/Create
         public IActionResult Create()
         {
+            ViewData["Idreceta"] = new SelectList(_context.Receta, "Idreceta", "Idreceta");
             return View();
         }
 
@@ -53,7 +56,7 @@ namespace kitchenApp.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Idplato,Nombreplato,Descripcionplato")] Plato plato)
+        public async Task<IActionResult> Create([Bind("Idplato,Idreceta,Nombreplato")] Plato plato)
         {
             if (ModelState.IsValid)
             {
@@ -61,6 +64,7 @@ namespace kitchenApp.Controllers
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
+            ViewData["Idreceta"] = new SelectList(_context.Receta, "Idreceta", "Idreceta", plato.Idreceta);
             return View(plato);
         }
 
@@ -77,6 +81,7 @@ namespace kitchenApp.Controllers
             {
                 return NotFound();
             }
+            ViewData["Idreceta"] = new SelectList(_context.Receta, "Idreceta", "Idreceta", plato.Idreceta);
             return View(plato);
         }
 
@@ -85,7 +90,7 @@ namespace kitchenApp.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(decimal id, [Bind("Idplato,Nombreplato,Descripcionplato")] Plato plato)
+        public async Task<IActionResult> Edit(decimal id, [Bind("Idplato,Idreceta,Nombreplato")] Plato plato)
         {
             if (id != plato.Idplato)
             {
@@ -112,6 +117,7 @@ namespace kitchenApp.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
+            ViewData["Idreceta"] = new SelectList(_context.Receta, "Idreceta", "Idreceta", plato.Idreceta);
             return View(plato);
         }
 
@@ -124,6 +130,7 @@ namespace kitchenApp.Controllers
             }
 
             var plato = await _context.Platos
+                .Include(p => p.IdrecetaNavigation)
                 .FirstOrDefaultAsync(m => m.Idplato == id);
             if (plato == null)
             {
