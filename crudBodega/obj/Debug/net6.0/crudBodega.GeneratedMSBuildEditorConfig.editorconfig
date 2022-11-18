@@ -15,6 +15,26 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = N:\Repo\Portafolio\crudBodega
 build_property._RazorSourceGeneratorDebug = 
 
+[N:/Repo/Portafolio/crudBodega/Views/Bebidums/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmViaWR1bXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[N:/Repo/Portafolio/crudBodega/Views/Bebidums/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmViaWR1bXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[N:/Repo/Portafolio/crudBodega/Views/Bebidums/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmViaWR1bXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[N:/Repo/Portafolio/crudBodega/Views/Bebidums/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmViaWR1bXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[N:/Repo/Portafolio/crudBodega/Views/Bebidums/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmViaWR1bXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [N:/Repo/Portafolio/crudBodega/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

@@ -1300,14 +1300,17 @@
           }
         }
       },
-      "Controlador/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
+      "TransbankSDK/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.1",
+          "System.Net.Http": "4.3.4"
+        },
         "compile": {
-          "bin/placeholder/Controlador.dll": {}
+          "lib/netstandard2.0/Transbank.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Controlador.dll": {}
+          "lib/netstandard2.0/Transbank.dll": {}
         }
       }
     }
@@ -4305,15 +4308,22 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "Controlador/1.0.0": {
-      "type": "project",
-      "path": "../Controlador/Controlador.csproj",
-      "msbuildProject": "../Controlador/Controlador.csproj"
+    "TransbankSDK/6.0.0": {
+      "sha512": "LY7E9ITLOZ8+F59mM820XO+0A4CGkbKyQTrUfTCY8MLQGClJGiEpB0NGHPjbf+3C1vy150oCQgxqYDS0prH24w==",
+      "type": "package",
+      "path": "transbanksdk/6.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net452/Transbank.dll",
+        "lib/netstandard2.0/Transbank.dll",
+        "transbanksdk.6.0.0.nupkg.sha512",
+        "transbanksdk.nuspec"
+      ]
     }
   },
   "projectFileDependencyGroups": {
     "net6.0-windows7.0": [
-      "Controlador >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.10",
       "Microsoft.Web.WebView2 >= 1.0.1418.22",
       "Oracle.EntityFrameworkCore >= 6.21.61",
@@ -4346,11 +4356,7 @@
       "frameworks": {
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
-          "projectReferences": {
-            "D:\\GitHub\\Portafolio2\\Controlador\\Controlador.csproj": {
-              "projectPath": "D:\\GitHub\\Portafolio2\\Controlador\\Controlador.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

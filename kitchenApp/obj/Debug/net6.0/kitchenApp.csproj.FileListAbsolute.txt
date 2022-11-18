@@ -1962,9 +1962,7 @@ N:\Repo\Portafolio\kitchenApp\obj\Debug\net6.0\kitchenApp.RazorAssemblyInfo.cach
 N:\Repo\Portafolio\kitchenApp\obj\Debug\net6.0\kitchenApp.RazorAssemblyInfo.cs
 N:\Repo\Portafolio\kitchenApp\obj\Debug\net6.0\staticwebassets.build.json
 N:\Repo\Portafolio\kitchenApp\obj\Debug\net6.0\staticwebassets.development.json
-N:\Repo\Portafolio\kitchenApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 N:\Repo\Portafolio\kitchenApp\obj\Debug\net6.0\scopedcss\bundle\kitchenApp.styles.css
-N:\Repo\Portafolio\kitchenApp\obj\Debug\net6.0\scopedcss\projectbundle\kitchenApp.bundle.scp.css
 N:\Repo\Portafolio\kitchenApp\obj\Debug\net6.0\kitchenApp.csproj.CopyComplete
 N:\Repo\Portafolio\kitchenApp\obj\Debug\net6.0\kitchenApp.dll
 N:\Repo\Portafolio\kitchenApp\obj\Debug\net6.0\refint\kitchenApp.dll
@@ -2245,3 +2243,5 @@ D:\GitHub\Portafolio2\kitchenApp\obj\Debug\net6.0\refint\kitchenApp.dll
 D:\GitHub\Portafolio2\kitchenApp\obj\Debug\net6.0\kitchenApp.pdb
 D:\GitHub\Portafolio2\kitchenApp\obj\Debug\net6.0\kitchenApp.genruntimeconfig.cache
 D:\GitHub\Portafolio2\kitchenApp\obj\Debug\net6.0\ref\kitchenApp.dll
+N:\Repo\Portafolio\kitchenApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+N:\Repo\Portafolio\kitchenApp\obj\Debug\net6.0\scopedcss\projectbundle\kitchenApp.bundle.scp.css
