@@ -16,7 +16,7 @@
                 @Html.DisplayNameFor(model => model.Contenidoorden)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Estadoorden)
+                @Html.DisplayNameFor(model => model.Estadopedido)
             </th>
             <th>
                 @Html.DisplayNameFor(model => model.Total)
@@ -34,7 +34,7 @@
                 @Html.DisplayFor(modelItem => item.Contenidoorden)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Estadoorden)
+                @Html.DisplayFor(modelItem => item.Estadopedido)
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.Total)
@@ -46,8 +46,6 @@
                 <a asp-action="Edit" asp-route-id="@item.Idorden">Edit</a> |
                 <a asp-action="Details" asp-route-id="@item.Idorden">Details</a> |
                 <a asp-action="Delete" asp-route-id="@item.Idorden">Delete</a>
-                <a asp-action="changeOrderOngoing" asp-route-id="@item.Idorden">Preparando Orden</a>
-                <a asp-action="changeOrderOngoing2" asp-route-id="@item.Idorden">Despachado</a>
             </td>
         </tr>
 }

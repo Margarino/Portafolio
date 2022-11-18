@@ -12,8 +12,7 @@ namespace kitchenApp.Models
 
         public decimal Idingrediente { get; set; }
         public string Nombreingrediente { get; set; } = null!;
-        public string? Unidadmedida { get; set; }
-        public decimal Cantidad { get; set; }
+        public decimal Precioingrediente { get; set; }
 
         public virtual ICollection<Recetum> Receta { get; set; }
     }

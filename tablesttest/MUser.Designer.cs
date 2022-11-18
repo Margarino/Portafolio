@@ -145,7 +145,7 @@
             this.panel4.Size = new System.Drawing.Size(784, 491);
             this.panel4.TabIndex = 3;
             // 
-            // MUser
+            // main
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -158,7 +158,7 @@
             this.DoubleBuffered = true;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.MinimizeBox = false;
-            this.Name = "MUser";
+            this.Name = "main";
             this.RightToLeftLayout = true;
             this.Text = "Menú";
             this.Load += new System.EventHandler(this.main_Load);
