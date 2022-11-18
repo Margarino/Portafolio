@@ -8,141 +8,141 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = kitchenApp
 build_property.RootNamespace = kitchenApp
-build_property.ProjectDir = D:\Letsgo\Clientev3\clientapp\kitchenApp\
+build_property.ProjectDir = N:\Repo\Portafolio\kitchenApp\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Letsgo\Clientev3\clientapp\kitchenApp
+build_property.MSBuildProjectDirectory = N:\Repo\Portafolio\kitchenApp
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Letsgo/Clientev3/clientapp/kitchenApp/Views/Home/Index.cshtml]
+[N:/Repo/Portafolio/kitchenApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/kitchenApp/Views/Home/Menu.cshtml]
+[N:/Repo/Portafolio/kitchenApp/Views/Home/Menu.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNZW51LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/kitchenApp/Views/Home/Privacy.cshtml]
+[N:/Repo/Portafolio/kitchenApp/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/kitchenApp/Views/Ingredientes/Create.cshtml]
+[N:/Repo/Portafolio/kitchenApp/Views/Ingredientes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5ncmVkaWVudGVzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/kitchenApp/Views/Ingredientes/Delete.cshtml]
+[N:/Repo/Portafolio/kitchenApp/Views/Ingredientes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5ncmVkaWVudGVzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/kitchenApp/Views/Ingredientes/Details.cshtml]
+[N:/Repo/Portafolio/kitchenApp/Views/Ingredientes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5ncmVkaWVudGVzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/kitchenApp/Views/Ingredientes/Edit.cshtml]
+[N:/Repo/Portafolio/kitchenApp/Views/Ingredientes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5ncmVkaWVudGVzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/kitchenApp/Views/Ingredientes/Index.cshtml]
+[N:/Repo/Portafolio/kitchenApp/Views/Ingredientes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5ncmVkaWVudGVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/kitchenApp/Views/Ordens/Create.cshtml]
+[N:/Repo/Portafolio/kitchenApp/Views/Ordens/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZW5zXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/kitchenApp/Views/Ordens/Delete.cshtml]
+[N:/Repo/Portafolio/kitchenApp/Views/Ordens/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZW5zXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/kitchenApp/Views/Ordens/Details.cshtml]
+[N:/Repo/Portafolio/kitchenApp/Views/Ordens/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZW5zXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/kitchenApp/Views/Ordens/Edit.cshtml]
+[N:/Repo/Portafolio/kitchenApp/Views/Ordens/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZW5zXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/kitchenApp/Views/Ordens/Index.cshtml]
+[N:/Repo/Portafolio/kitchenApp/Views/Ordens/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZW5zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/kitchenApp/Views/Platoes/Create.cshtml]
+[N:/Repo/Portafolio/kitchenApp/Views/Platoes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhdG9lc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/kitchenApp/Views/Platoes/Delete.cshtml]
+[N:/Repo/Portafolio/kitchenApp/Views/Platoes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhdG9lc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/kitchenApp/Views/Platoes/Details.cshtml]
+[N:/Repo/Portafolio/kitchenApp/Views/Platoes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhdG9lc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/kitchenApp/Views/Platoes/Edit.cshtml]
+[N:/Repo/Portafolio/kitchenApp/Views/Platoes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhdG9lc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/kitchenApp/Views/Platoes/Index.cshtml]
+[N:/Repo/Portafolio/kitchenApp/Views/Platoes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhdG9lc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/kitchenApp/Views/Productoes/Create.cshtml]
+[N:/Repo/Portafolio/kitchenApp/Views/Productoes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9lc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/kitchenApp/Views/Productoes/Delete.cshtml]
+[N:/Repo/Portafolio/kitchenApp/Views/Productoes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9lc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/kitchenApp/Views/Productoes/Details.cshtml]
+[N:/Repo/Portafolio/kitchenApp/Views/Productoes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9lc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/kitchenApp/Views/Productoes/Edit.cshtml]
+[N:/Repo/Portafolio/kitchenApp/Views/Productoes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9lc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/kitchenApp/Views/Productoes/Index.cshtml]
+[N:/Repo/Portafolio/kitchenApp/Views/Productoes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9lc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/kitchenApp/Views/Recetums/Create.cshtml]
+[N:/Repo/Portafolio/kitchenApp/Views/Recetums/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjZXR1bXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/kitchenApp/Views/Recetums/Delete.cshtml]
+[N:/Repo/Portafolio/kitchenApp/Views/Recetums/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjZXR1bXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/kitchenApp/Views/Recetums/Details.cshtml]
+[N:/Repo/Portafolio/kitchenApp/Views/Recetums/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjZXR1bXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/kitchenApp/Views/Recetums/Edit.cshtml]
+[N:/Repo/Portafolio/kitchenApp/Views/Recetums/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjZXR1bXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/kitchenApp/Views/Recetums/Index.cshtml]
+[N:/Repo/Portafolio/kitchenApp/Views/Recetums/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjZXR1bXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/kitchenApp/Views/Shared/Error.cshtml]
+[N:/Repo/Portafolio/kitchenApp/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/kitchenApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+[N:/Repo/Portafolio/kitchenApp/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/kitchenApp/Views/_ViewImports.cshtml]
+[N:/Repo/Portafolio/kitchenApp/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/kitchenApp/Views/_ViewStart.cshtml]
+[N:/Repo/Portafolio/kitchenApp/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/kitchenApp/Views/Shared/_Layout.cshtml]
+[N:/Repo/Portafolio/kitchenApp/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-0ak9silbfh

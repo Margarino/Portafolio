@@ -8,81 +8,81 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = financeApp
 build_property.RootNamespace = financeApp
-build_property.ProjectDir = D:\Letsgo\Clientev3\clientapp\financeApp\
+build_property.ProjectDir = N:\Repo\Portafolio\financeApp\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Letsgo\Clientev3\clientapp\financeApp
+build_property.MSBuildProjectDirectory = N:\Repo\Portafolio\financeApp
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Letsgo/Clientev3/clientapp/financeApp/Views/Egresoes/Create.cshtml]
+[N:/Repo/Portafolio/financeApp/Views/Egresoes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWdyZXNvZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/financeApp/Views/Egresoes/Delete.cshtml]
+[N:/Repo/Portafolio/financeApp/Views/Egresoes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWdyZXNvZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/financeApp/Views/Egresoes/Details.cshtml]
+[N:/Repo/Portafolio/financeApp/Views/Egresoes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWdyZXNvZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/financeApp/Views/Egresoes/Edit.cshtml]
+[N:/Repo/Portafolio/financeApp/Views/Egresoes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWdyZXNvZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/financeApp/Views/Egresoes/Index.cshtml]
+[N:/Repo/Portafolio/financeApp/Views/Egresoes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWdyZXNvZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/financeApp/Views/Home/Index.cshtml]
+[N:/Repo/Portafolio/financeApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/financeApp/Views/Home/Menu.cshtml]
+[N:/Repo/Portafolio/financeApp/Views/Home/Menu.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNZW51LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/financeApp/Views/Home/Privacy.cshtml]
+[N:/Repo/Portafolio/financeApp/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/financeApp/Views/Ingresoes/Create.cshtml]
+[N:/Repo/Portafolio/financeApp/Views/Ingresoes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5ncmVzb2VzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/financeApp/Views/Ingresoes/Delete.cshtml]
+[N:/Repo/Portafolio/financeApp/Views/Ingresoes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5ncmVzb2VzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/financeApp/Views/Ingresoes/Details.cshtml]
+[N:/Repo/Portafolio/financeApp/Views/Ingresoes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5ncmVzb2VzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/financeApp/Views/Ingresoes/Edit.cshtml]
+[N:/Repo/Portafolio/financeApp/Views/Ingresoes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5ncmVzb2VzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/financeApp/Views/Ingresoes/Index.cshtml]
+[N:/Repo/Portafolio/financeApp/Views/Ingresoes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5ncmVzb2VzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/financeApp/Views/Shared/Error.cshtml]
+[N:/Repo/Portafolio/financeApp/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/financeApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+[N:/Repo/Portafolio/financeApp/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/financeApp/Views/_ViewImports.cshtml]
+[N:/Repo/Portafolio/financeApp/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/financeApp/Views/_ViewStart.cshtml]
+[N:/Repo/Portafolio/financeApp/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/financeApp/Views/Shared/_Layout.cshtml]
+[N:/Repo/Portafolio/financeApp/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-08y3j5tvyx

@@ -8,101 +8,101 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = crudBodega
 build_property.RootNamespace = crudBodega
-build_property.ProjectDir = D:\Letsgo\Clientev3\clientapp\crudBodega\
+build_property.ProjectDir = N:\Repo\Portafolio\crudBodega\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Letsgo\Clientev3\clientapp\crudBodega
+build_property.MSBuildProjectDirectory = N:\Repo\Portafolio\crudBodega
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Letsgo/Clientev3/clientapp/crudBodega/Views/Home/Index.cshtml]
+[N:/Repo/Portafolio/crudBodega/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/crudBodega/Views/Home/Menu.cshtml]
+[N:/Repo/Portafolio/crudBodega/Views/Home/Menu.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNZW51LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/crudBodega/Views/Home/Privacy.cshtml]
+[N:/Repo/Portafolio/crudBodega/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/crudBodega/Views/Ingredientes/Create.cshtml]
+[N:/Repo/Portafolio/crudBodega/Views/Ingredientes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5ncmVkaWVudGVzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/crudBodega/Views/Ingredientes/Delete.cshtml]
+[N:/Repo/Portafolio/crudBodega/Views/Ingredientes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5ncmVkaWVudGVzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/crudBodega/Views/Ingredientes/Details.cshtml]
+[N:/Repo/Portafolio/crudBodega/Views/Ingredientes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5ncmVkaWVudGVzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/crudBodega/Views/Ingredientes/Edit.cshtml]
+[N:/Repo/Portafolio/crudBodega/Views/Ingredientes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5ncmVkaWVudGVzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/crudBodega/Views/Ingredientes/Index.cshtml]
+[N:/Repo/Portafolio/crudBodega/Views/Ingredientes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5ncmVkaWVudGVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/crudBodega/Views/Pedidoes/Create.cshtml]
+[N:/Repo/Portafolio/crudBodega/Views/Pedidoes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/crudBodega/Views/Pedidoes/Delete.cshtml]
+[N:/Repo/Portafolio/crudBodega/Views/Pedidoes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/crudBodega/Views/Pedidoes/Details.cshtml]
+[N:/Repo/Portafolio/crudBodega/Views/Pedidoes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/crudBodega/Views/Pedidoes/Edit.cshtml]
+[N:/Repo/Portafolio/crudBodega/Views/Pedidoes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/crudBodega/Views/Pedidoes/Index.cshtml]
+[N:/Repo/Portafolio/crudBodega/Views/Pedidoes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/crudBodega/Views/Productoes/Create.cshtml]
+[N:/Repo/Portafolio/crudBodega/Views/Productoes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9lc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/crudBodega/Views/Productoes/Delete.cshtml]
+[N:/Repo/Portafolio/crudBodega/Views/Productoes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9lc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/crudBodega/Views/Productoes/Details.cshtml]
+[N:/Repo/Portafolio/crudBodega/Views/Productoes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9lc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/crudBodega/Views/Productoes/Edit.cshtml]
+[N:/Repo/Portafolio/crudBodega/Views/Productoes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9lc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/crudBodega/Views/Productoes/Index.cshtml]
+[N:/Repo/Portafolio/crudBodega/Views/Productoes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9lc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/crudBodega/Views/Shared/Error.cshtml]
+[N:/Repo/Portafolio/crudBodega/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/crudBodega/Views/Shared/_ValidationScriptsPartial.cshtml]
+[N:/Repo/Portafolio/crudBodega/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/crudBodega/Views/_ViewImports.cshtml]
+[N:/Repo/Portafolio/crudBodega/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/crudBodega/Views/_ViewStart.cshtml]
+[N:/Repo/Portafolio/crudBodega/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Letsgo/Clientev3/clientapp/crudBodega/Views/Shared/_Layout.cshtml]
+[N:/Repo/Portafolio/crudBodega/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-xo5s5m0x2n

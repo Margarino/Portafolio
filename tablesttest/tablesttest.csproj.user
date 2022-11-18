@@ -22,8 +22,5 @@
     <Compile Update="MUser.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="ViewBebida.cs">
-      <SubType>Form</SubType>
-    </Compile>
   </ItemGroup>
 </Project>
