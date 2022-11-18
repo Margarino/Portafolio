@@ -2,7 +2,7 @@
   "profiles": {
     "tablesttest": {
       "commandName": "Project",
-      "workingDirectory": "C:\\Users\\fried\\Escritorio\\Clientev3\\clientapp",
+      "workingDirectory": "D:\\Letsgo\\Clientev3",
       "jsWebView2Debugging": true,
       "sqlDebugging": true,
       "remoteDebugEnabled": true,

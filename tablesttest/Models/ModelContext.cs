@@ -10,7 +10,6 @@ namespace tablesttest.Models
         public ModelContext()
         {
         }
-       
 
         public ModelContext(DbContextOptions<ModelContext> options)
             : base(options)
@@ -30,10 +29,12 @@ namespace tablesttest.Models
         public virtual DbSet<Producto> Productos { get; set; } = null!;
         public virtual DbSet<Recetum> Receta { get; set; } = null!;
 
+        
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             if (!optionsBuilder.IsConfigured)
             {
+#warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see http://go.microsoft.com/fwlink/?LinkId=723263.
                 optionsBuilder.UseOracle("Data Source=(DESCRIPTION=(ADDRESS_LIST= (ADDRESS=(COMMUNITY=tcpcom.world)(PROTOCOL=tcp)(HOST=localhost)(PORT=1521)))(CONNECT_DATA=(SID=xe))); User ID=testuser;Password=securepassword");
             }
         }
@@ -73,7 +74,7 @@ namespace tablesttest.Models
                 entity.ToTable("BEBIDA");
 
                 entity.Property(e => e.Idbebida)
-                    .HasColumnType("INT")
+                    .HasColumnType("NUMBER")
                     .ValueGeneratedOnAdd()
                     .HasColumnName("IDBEBIDA");
 

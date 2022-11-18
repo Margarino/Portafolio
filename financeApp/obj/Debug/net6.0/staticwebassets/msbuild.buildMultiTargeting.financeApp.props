@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\financeApp.props" />
-</Project>

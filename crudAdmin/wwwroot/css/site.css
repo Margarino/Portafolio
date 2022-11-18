@@ -32,7 +32,7 @@ footer a:link {
        background-color: black;
 }
 
-header nav { 
+header nav {
     width: 100%;
     height: 100%;
     background-image:url('../img/header2.jpg');
@@ -41,7 +41,6 @@ header nav {
 
 header nav a{
         background-size: cover;
-    
 }
 
 a:link{
@@ -52,7 +51,6 @@ a:link{
     display: inline-block;
     border-radius: 25px;
     margin:2px;
-   
 }
 
 a:hover {

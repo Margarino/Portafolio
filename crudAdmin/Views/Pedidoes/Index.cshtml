@@ -4,16 +4,16 @@
     ViewData["Title"] = "Index";
 }
 
-<h1>Índice</h1>
+<h1>Index</h1>
 
 <table class="table">
     <thead>
         <tr>
             <th>
-                <a>Cantidad pedido</a>                      
+                @Html.DisplayNameFor(model => model.Contpedido)
             </th>
             <th>
-                <a>Rut solicitante</a>
+                @Html.DisplayNameFor(model => model.Rut)
             </th>
             <th></th>
         </tr>
@@ -28,7 +28,7 @@
                 @Html.DisplayFor(modelItem => item.Rut)
             </td>
             <td>
-                <a asp-action="Details" asp-route-id="@item.Idpedido">Detalles</a>
+                <a asp-action="Details" asp-route-id="@item.Idpedido">Details</a>
             </td>
         </tr>
 }

@@ -16,10 +16,7 @@
                 @Html.DisplayNameFor(model => model.Nombreingrediente)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Unidadmedida)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Cantidad)
+                @Html.DisplayNameFor(model => model.Precioingrediente)
             </th>
             <th></th>
         </tr>
@@ -31,10 +28,7 @@
                 @Html.DisplayFor(modelItem => item.Nombreingrediente)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Unidadmedida)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Cantidad)
+                @Html.DisplayFor(modelItem => item.Precioingrediente)
             </td>
             <td>
                 <a asp-action="Edit" asp-route-id="@item.Idingrediente">Edit</a> |

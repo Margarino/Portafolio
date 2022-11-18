@@ -4,7 +4,7 @@
     ViewData["Title"] = "Create";
 }
 
-<h1>Formulario creación</h1>
+<h1>Create</h1>
 
 <h4>Pedido</h4>
 <hr />
@@ -13,29 +13,29 @@
         <form asp-action="Create">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
-                <label asp-for="Idpedido" class="control-label">Id Pedido</label>
+                <label asp-for="Idpedido" class="control-label"></label>
                 <input asp-for="Idpedido" class="form-control" />
                 <span asp-validation-for="Idpedido" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="Contpedido" class="control-label">Cantidad Pedido</label>
+                <label asp-for="Contpedido" class="control-label"></label>
                 <input asp-for="Contpedido" class="form-control" />
                 <span asp-validation-for="Contpedido" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="Rut" class="control-label">Rut Solicitante</label>
+                <label asp-for="Rut" class="control-label"></label>
                 <input asp-for="Rut" class="form-control" />
                 <span asp-validation-for="Rut" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <input type="submit" value="Crear" class="btn btn-primary" />
+                <input type="submit" value="Create" class="btn btn-primary" />
             </div>
         </form>
     </div>
 </div>
 
 <div>
-    <a asp-action="Index">Volver a la lista</a>
+    <a asp-action="Index">Back to List</a>
 </div>
 
 @section Scripts {

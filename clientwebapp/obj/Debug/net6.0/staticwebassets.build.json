@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "pe6qgyWs/kDo0NZRT3ca7R+OFJBUsI2uJarA3oe/SCo=",
+  "Hash": "dchSsd6dD9Vi0z69lTaM5+Chd6EWfVQtGPqoq+toyek=",
   "Source": "clientwebapp",
   "BasePath": "_content/clientwebapp",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "clientwebapp\\wwwroot",
       "Source": "clientwebapp",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\clientwebapp.styles.css",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\clientwebapp.styles.css",
       "SourceId": "clientwebapp",
       "SourceType": "Computed",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "clientwebapp.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "N:\\Repo\\Portafolio\\clientwebapp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\clientwebapp.styles.css"
+      "OriginalItemSpec": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\clientwebapp.styles.css"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\clientwebapp.bundle.scp.css",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\clientwebapp.bundle.scp.css",
       "SourceId": "clientwebapp",
       "SourceType": "Computed",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "clientwebapp.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "N:\\Repo\\Portafolio\\clientwebapp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\clientwebapp.bundle.scp.css"
+      "OriginalItemSpec": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\clientwebapp.bundle.scp.css"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\css\\site.css",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\css\\site.css",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\favicon.ico",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\favicon.ico",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\img\\4613-10641351.png",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\img\\4613-10641351.png",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "img/4613-10641351.png",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\img\\4613-10641351.png"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\img\\bebidas.png",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\img\\bebidas.png",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "img/bebidas.png",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\img\\bebidas.png"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\img\\BG.jpg",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\img\\BG.jpg",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "img/BG.jpg",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\img\\BG.jpg"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\img\\bgimages.png",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\img\\bgimages.png",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "img/bgimages.png",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\img\\bgimages.png"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\img\\bg-verde.png",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\img\\bg-verde.png",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "img/bg-verde.png",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\img\\bg-verde.png"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\img\\bg-verdes.png",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\img\\bg-verdes.png",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "img/bg-verdes.png",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\img\\bg-verdes.png"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\img\\card-in-use.png",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\img\\card-in-use.png",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "img/card-in-use.png",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\img\\card-in-use.png"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\img\\coca.png",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\img\\coca.png",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "img/coca.png",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\img\\coca.png"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\img\\create-order.png",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\img\\create-order.png",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "img/create-order.png",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\img\\create-order.png"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\img\\dining-and-bar-area.jpg",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\img\\dining-and-bar-area.jpg",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "img/dining-and-bar-area.jpg",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\img\\dining-and-bar-area.jpg"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\img\\dining-room.png",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\img\\dining-room.png",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "img/dining-room.png",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\img\\dining-room.png"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\img\\fanta.png",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\img\\fanta.png",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "img/fanta.png",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\img\\fanta.png"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\img\\food.png",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\img\\food.png",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "img/food.png",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\img\\food.png"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\img\\food-bar.png",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\img\\food-bar.png",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "img/food-bar.png",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\img\\food-bar.png"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\img\\header.jpg",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\img\\header.jpg",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "img/header.jpg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\img\\header.jpg"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\img\\header1.jpg",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\img\\header1.jpg",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "img/header1.jpg",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\img\\header1.jpg"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\img\\header2.jpg",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\img\\header2.jpg",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "img/header2.jpg",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\img\\header2.jpg"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\img\\jugos.png",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\img\\jugos.png",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "img/jugos.png",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\img\\jugos.png"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\img\\jugos2-png.jpg",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\img\\jugos2-png.jpg",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "img/jugos2-png.jpg",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\img\\jugos2-png.jpg"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\img\\licores.png",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\img\\licores.png",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "img/licores.png",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\img\\licores.png"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\img\\new - copia.jpg",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\img\\new - copia.jpg",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "img/new - copia.jpg",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\img\\new - copia.jpg"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\img\\new.jpg",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\img\\new.jpg",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "img/new.jpg",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\img\\new.jpg"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\img\\new2.jpg.png",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\img\\new2.jpg.png",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "img/new2.jpg.png",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\img\\new2.jpg.png"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\img\\purchase-order.png",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\img\\purchase-order.png",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "img/purchase-order.png",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\img\\purchase-order.png"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\img\\Screenshot_1.png",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\img\\Screenshot_1.png",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "img/Screenshot_1.png",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Screenshot_1.png"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\img\\waiter.png",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\img\\waiter.png",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "img/waiter.png",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\img\\waiter.png"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\img\\wine-glass.png",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\img\\wine-glass.png",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "img/wine-glass.png",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\img\\wine-glass.png"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\js\\site.js",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\js\\site.js",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "clientwebapp",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Repo\\Portafolio\\clientwebapp\\wwwroot\\",
+      "ContentRoot": "D:\\Letsgo\\Clientev3\\clientapp\\clientwebapp\\wwwroot\\",
       "BasePath": "_content/clientwebapp",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

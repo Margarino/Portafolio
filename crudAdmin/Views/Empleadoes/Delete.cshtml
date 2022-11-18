@@ -4,11 +4,11 @@
     ViewData["Title"] = "Delete";
 }
 
-<h1>Eliminar</h1>
+<h1>Delete</h1>
 
-<h3>Empleado</h3>
+<h3>Are you sure you want to delete this?</h3>
 <div>
-    <h6>Cualquier acción acá realizada será irreversible</h6>
+    <h4>Empleado</h4>
     <hr />
     <dl class="row">
         <dt class = "col-sm-2">
@@ -27,7 +27,7 @@
     
     <form asp-action="Delete">
         <input type="hidden" asp-for="Rut" />
-        <input type="submit" value="Eliminar" class="btn btn-danger" /> |
-        <a asp-action="Index">Volver a la lista</a>
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a asp-action="Index">Back to List</a>
     </form>
 </div>

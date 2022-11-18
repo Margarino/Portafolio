@@ -18,7 +18,7 @@ namespace tablesttest
         {
             InitializeComponent();
         }
-        
+        ViewOrden comida = new ViewOrden();
         
         private void movesidepanel(Button btn)
         {
@@ -28,10 +28,9 @@ namespace tablesttest
 
         private void button1_Click(object sender, EventArgs e)
         {
-            this.Hide();
             movesidepanel(button1);
-            viewOrden orden = new viewOrden();
-            orden.Show();
+            Menu menu = new Menu();
+            menu.Show();
         }
 
         private void label1_Click(object sender, EventArgs e)
@@ -42,12 +41,15 @@ namespace tablesttest
         private void button2_Click(object sender, EventArgs e)
         {
             movesidepanel(button2);
-
+            PedirExtra pedirExtra = new PedirExtra();
+            pedirExtra.Show();
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
             movesidepanel(button3);
+            PagarPedido pagar = new PagarPedido();
+            pagar.Show();
         }
 
         private void button4_Click(object sender, EventArgs e)
