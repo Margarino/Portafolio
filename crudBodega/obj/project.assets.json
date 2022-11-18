@@ -9712,19 +9712,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\fried\\.nuget\\packages\\": {}
+    "C:\\Users\\iquir\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\Portafolio2\\crudBodega\\crudBodega.csproj",
+      "projectUniqueName": "N:\\Repo\\Portafolio\\crudBodega\\crudBodega.csproj",
       "projectName": "crudBodega",
-      "projectPath": "D:\\GitHub\\Portafolio2\\crudBodega\\crudBodega.csproj",
-      "packagesPath": "C:\\Users\\fried\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\Portafolio2\\crudBodega\\obj\\",
+      "projectPath": "N:\\Repo\\Portafolio\\crudBodega\\crudBodega.csproj",
+      "packagesPath": "C:\\Users\\iquir\\.nuget\\packages\\",
+      "outputPath": "N:\\Repo\\Portafolio\\crudBodega\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\fried\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\iquir\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -9775,8 +9775,7 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -9788,7 +9787,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

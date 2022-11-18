@@ -8,141 +8,141 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = crudAdmin
 build_property.RootNamespace = crudAdmin
-build_property.ProjectDir = D:\GitHub\Portafolio2\crudAdmin\
+build_property.ProjectDir = N:\Repo\Portafolio\crudAdmin\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\GitHub\Portafolio2\crudAdmin
+build_property.MSBuildProjectDirectory = N:\Repo\Portafolio\crudAdmin
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/GitHub/Portafolio2/crudAdmin/Views/Empleadoes/Create.cshtml]
+[N:/Repo/Portafolio/crudAdmin/Views/Empleadoes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9lc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/GitHub/Portafolio2/crudAdmin/Views/Empleadoes/Delete.cshtml]
+[N:/Repo/Portafolio/crudAdmin/Views/Empleadoes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9lc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/GitHub/Portafolio2/crudAdmin/Views/Empleadoes/Details.cshtml]
+[N:/Repo/Portafolio/crudAdmin/Views/Empleadoes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9lc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/GitHub/Portafolio2/crudAdmin/Views/Empleadoes/Edit.cshtml]
+[N:/Repo/Portafolio/crudAdmin/Views/Empleadoes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9lc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/GitHub/Portafolio2/crudAdmin/Views/Empleadoes/Index.cshtml]
+[N:/Repo/Portafolio/crudAdmin/Views/Empleadoes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9lc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/GitHub/Portafolio2/crudAdmin/Views/Home/Index.cshtml]
+[N:/Repo/Portafolio/crudAdmin/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/GitHub/Portafolio2/crudAdmin/Views/Home/Menu.cshtml]
+[N:/Repo/Portafolio/crudAdmin/Views/Home/Menu.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNZW51LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/GitHub/Portafolio2/crudAdmin/Views/Home/Privacy.cshtml]
+[N:/Repo/Portafolio/crudAdmin/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/GitHub/Portafolio2/crudAdmin/Views/Ingredientes/Create.cshtml]
+[N:/Repo/Portafolio/crudAdmin/Views/Ingredientes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5ncmVkaWVudGVzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/GitHub/Portafolio2/crudAdmin/Views/Ingredientes/Delete.cshtml]
+[N:/Repo/Portafolio/crudAdmin/Views/Ingredientes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5ncmVkaWVudGVzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/GitHub/Portafolio2/crudAdmin/Views/Ingredientes/Details.cshtml]
+[N:/Repo/Portafolio/crudAdmin/Views/Ingredientes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5ncmVkaWVudGVzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/GitHub/Portafolio2/crudAdmin/Views/Ingredientes/Edit.cshtml]
+[N:/Repo/Portafolio/crudAdmin/Views/Ingredientes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5ncmVkaWVudGVzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/GitHub/Portafolio2/crudAdmin/Views/Ingredientes/Index.cshtml]
+[N:/Repo/Portafolio/crudAdmin/Views/Ingredientes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5ncmVkaWVudGVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/GitHub/Portafolio2/crudAdmin/Views/Mesas/Create.cshtml]
+[N:/Repo/Portafolio/crudAdmin/Views/Mesas/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzYXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/GitHub/Portafolio2/crudAdmin/Views/Mesas/Delete.cshtml]
+[N:/Repo/Portafolio/crudAdmin/Views/Mesas/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzYXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/GitHub/Portafolio2/crudAdmin/Views/Mesas/Details.cshtml]
+[N:/Repo/Portafolio/crudAdmin/Views/Mesas/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzYXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/GitHub/Portafolio2/crudAdmin/Views/Mesas/Edit.cshtml]
+[N:/Repo/Portafolio/crudAdmin/Views/Mesas/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzYXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/GitHub/Portafolio2/crudAdmin/Views/Mesas/Index.cshtml]
+[N:/Repo/Portafolio/crudAdmin/Views/Mesas/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzYXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/GitHub/Portafolio2/crudAdmin/Views/Pedidoes/Create.cshtml]
+[N:/Repo/Portafolio/crudAdmin/Views/Pedidoes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/GitHub/Portafolio2/crudAdmin/Views/Pedidoes/Delete.cshtml]
+[N:/Repo/Portafolio/crudAdmin/Views/Pedidoes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/GitHub/Portafolio2/crudAdmin/Views/Pedidoes/Details.cshtml]
+[N:/Repo/Portafolio/crudAdmin/Views/Pedidoes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/GitHub/Portafolio2/crudAdmin/Views/Pedidoes/Edit.cshtml]
+[N:/Repo/Portafolio/crudAdmin/Views/Pedidoes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/GitHub/Portafolio2/crudAdmin/Views/Pedidoes/Index.cshtml]
+[N:/Repo/Portafolio/crudAdmin/Views/Pedidoes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/GitHub/Portafolio2/crudAdmin/Views/Productoes/Create.cshtml]
+[N:/Repo/Portafolio/crudAdmin/Views/Productoes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9lc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/GitHub/Portafolio2/crudAdmin/Views/Productoes/Delete.cshtml]
+[N:/Repo/Portafolio/crudAdmin/Views/Productoes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9lc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/GitHub/Portafolio2/crudAdmin/Views/Productoes/Details.cshtml]
+[N:/Repo/Portafolio/crudAdmin/Views/Productoes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9lc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/GitHub/Portafolio2/crudAdmin/Views/Productoes/Edit.cshtml]
+[N:/Repo/Portafolio/crudAdmin/Views/Productoes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9lc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/GitHub/Portafolio2/crudAdmin/Views/Productoes/Index.cshtml]
+[N:/Repo/Portafolio/crudAdmin/Views/Productoes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9lc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/GitHub/Portafolio2/crudAdmin/Views/Shared/Error.cshtml]
+[N:/Repo/Portafolio/crudAdmin/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/GitHub/Portafolio2/crudAdmin/Views/Shared/_ValidationScriptsPartial.cshtml]
+[N:/Repo/Portafolio/crudAdmin/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/GitHub/Portafolio2/crudAdmin/Views/_ViewImports.cshtml]
+[N:/Repo/Portafolio/crudAdmin/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/GitHub/Portafolio2/crudAdmin/Views/_ViewStart.cshtml]
+[N:/Repo/Portafolio/crudAdmin/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/GitHub/Portafolio2/crudAdmin/Views/Shared/_Layout.cshtml]
+[N:/Repo/Portafolio/crudAdmin/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-uy3aktpw44
