@@ -529,6 +529,16 @@
             "rid": "win"
           }
         }
+      },
+      "Controlador/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Controlador.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Controlador.dll": {}
+        }
       }
     }
   },
@@ -1384,10 +1394,16 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "Controlador/1.0.0": {
+      "type": "project",
+      "path": "../Controlador/Controlador.csproj",
+      "msbuildProject": "../Controlador/Controlador.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0-windows7.0": [
+      "Controlador >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.10",
       "Oracle.EntityFrameworkCore >= 6.21.61"
     ]
@@ -1418,7 +1434,11 @@
       "frameworks": {
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\GitHub\\Portafolio2\\Controlador\\Controlador.csproj": {
+              "projectPath": "D:\\GitHub\\Portafolio2\\Controlador\\Controlador.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
