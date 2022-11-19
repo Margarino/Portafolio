@@ -1,29 +1,29 @@
-﻿@model kitchenApp.Models.Adm
-
-
-<h1>Login</h1>
-<hr />
-<div class="row">
-    <div class="col-md-4">
-        <form asp-action="Menu" asp-controller="Home">
-
-            <div asp-validation-summary="All" class="text-danger"></div>
-            <div class="form-group">
-                <label asp-for="Rut" class="control-label"></label>
-                <input asp-for="Rut" class="form-control" placeholder="Rut" />
-                <span asp-validation-for="Rut" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="Pass" class="control-label"></label>
-                <input asp-for="Pass" class="form-control" placeholder="Contraseña" />
-                <span asp-validation-for="Pass" class="text-danger"></span>
-            </div>    
-            <div class="form-group">
-                <input type="submit" value="Login" class="btn btn-primary" />
-            </div>
-        </form>
-    </div>
-</div>
-@section Scripts {
-    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+﻿@{
+    ViewData["Title"] = "Home Page";
 }
+
+<div class="text-center">
+    <h1 class="display-4">Crud Cocina</h1>
+    <p>Crud de bodega pero que no es de bodega sino que es de cocina </p>
+</div>
+
+
+<div class="container-fluid">
+    <a href="/Ordens/Index">>Ordenes</a>
+</div>
+
+<div class="container-fluid">
+    <a href="/Ingredientes/Index">>Stock Ingredientes</a>
+</div>
+
+<div class="container-fluid">
+    <a href="/Productoes/Index">>Stock Productos</a>
+</div>
+
+<div class="container-fluid">
+    <a href="/Platoes/Index">>Platos</a>
+</div>
+
+<div class="container-fluid">
+    <a href="/Recetums/Index">>Recetas</a>
+</div>

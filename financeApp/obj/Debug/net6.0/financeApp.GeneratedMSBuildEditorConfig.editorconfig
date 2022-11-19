@@ -67,6 +67,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5ncmVzb2VzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[N:/Repo/Portafolio/financeApp/Views/Shared - Copia/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkIC0gQ29waWFcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[N:/Repo/Portafolio/financeApp/Views/Shared - Copia/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkIC0gQ29waWFcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [N:/Repo/Portafolio/financeApp/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -82,6 +90,10 @@ build_metadata.AdditionalFiles.CssScope =
 [N:/Repo/Portafolio/financeApp/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
+
+[N:/Repo/Portafolio/financeApp/Views/Shared - Copia/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkIC0gQ29waWFcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-cu625ehyms
 
 [N:/Repo/Portafolio/financeApp/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s

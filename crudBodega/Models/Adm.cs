@@ -13,6 +13,7 @@ namespace crudBodega.Models
         public string Rut { get; set; } = null!;
         public string? Pass { get; set; }
 
+        public virtual Empleado RutNavigation { get; set; } = null!;
         public virtual ICollection<Pedido> Pedidos { get; set; }
     }
 }

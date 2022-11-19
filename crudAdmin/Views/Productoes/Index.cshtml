@@ -4,16 +4,16 @@
     ViewData["Title"] = "Index";
 }
 
-<h1>Índice</h1>
+<h1>Index</h1>
 
 <table class="table">
     <thead>
         <tr>
             <th>
-                <a>Descripción del producto</a>
+                @Html.DisplayNameFor(model => model.Descripcionproducto)
             </th>
             <th>
-                <a>Valor del producto</a>
+                @Html.DisplayNameFor(model => model.Valorproducto)
             </th>
             <th></th>
         </tr>

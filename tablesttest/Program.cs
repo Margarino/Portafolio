@@ -1,4 +1,7 @@
 namespace tablesttest;
+using tablesttest.Models;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Metadata;
 
 internal static class Program
 {
@@ -8,17 +11,12 @@ internal static class Program
     [STAThread]
     static void Main()
     {
-        try
-        {
-            // To customize application configuration such as set high DPI settings or default font,
-            // see https://aka.ms/applicationconfiguration.
-            ApplicationConfiguration.Initialize();
-            Application.Run(new Login());
-        }
-        catch (Exception e)
-        {
-            Console.WriteLine(e.Message);   
-        }
+        // To customize application configuration such as set high DPI settings or default font,
+        // see https://aka.ms/applicationconfiguration.
+        ApplicationConfiguration.Initialize();
+        Application.Run(new MUser());
+       
+
         //Empleado testempleado = new Empleado("margarino","123","dba",null);
         //  context.Empleados.Add(testempleado);
 

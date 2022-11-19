@@ -77,50 +77,117 @@ C:\Users\fried\OneDrive\Escritorio\tablesttest\obj\Debug\net6.0-windows\ref\tabl
 C:\Users\fried\OneDrive\Escritorio\tablesttest\obj\Debug\net6.0-windows\tablesttest.ViewOrden.resources
 C:\Users\fried\OneDrive\Escritorio\tablesttest\obj\Debug\net6.0-windows\tablesttest.ViewBebida.resources
 C:\Users\fried\OneDrive\Escritorio\tablesttest\obj\Debug\net6.0-windows\tablesttest.MUser.resources
-C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\tablesttest.exe
-C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\tablesttest.deps.json
-C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\tablesttest.runtimeconfig.json
-C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\tablesttest.dll
-C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\tablesttest.pdb
-C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\Humanizer.dll
-C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
-C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\Oracle.EntityFrameworkCore.dll
-C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\Oracle.ManagedDataAccess.dll
-C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\System.DirectoryServices.Protocols.dll
-C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
-C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
-C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
-C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.csproj.AssemblyReference.cache
-C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.MUser.resources
-C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.Properties.Resources.resources
-C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.ViewBebida.resources
-C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.ViewOrden.resources
-C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.csproj.GenerateResource.cache
-C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.AssemblyInfoInputs.cache
-C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.AssemblyInfo.cs
-C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.csproj.CoreCompileInputs.cache
-C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.csproj.CopyComplete
-C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.dll
-C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\obj\Debug\net6.0-windows\refint\tablesttest.dll
-C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.pdb
-C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.genruntimeconfig.cache
-C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\obj\Debug\net6.0-windows\ref\tablesttest.dll
-C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.Login.resources
-C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.LoginUser.resources
-C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
-C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
-C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
-C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
-C:\Users\fried\Escritorio\Clientev3\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.Form1.resources
+D:\Letsgo\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\tablesttest.exe
+D:\Letsgo\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\tablesttest.deps.json
+D:\Letsgo\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\tablesttest.runtimeconfig.json
+D:\Letsgo\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\tablesttest.dll
+D:\Letsgo\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\tablesttest.pdb
+D:\Letsgo\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\Humanizer.dll
+D:\Letsgo\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Letsgo\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Letsgo\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Letsgo\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Letsgo\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Letsgo\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Letsgo\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Letsgo\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Letsgo\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Letsgo\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\Letsgo\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Letsgo\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\Letsgo\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Letsgo\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\Oracle.EntityFrameworkCore.dll
+D:\Letsgo\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\Oracle.ManagedDataAccess.dll
+D:\Letsgo\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\System.DirectoryServices.Protocols.dll
+D:\Letsgo\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\Letsgo\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\Letsgo\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\Letsgo\Clientev3\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.csproj.AssemblyReference.cache
+D:\Letsgo\Clientev3\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.MUser.resources
+D:\Letsgo\Clientev3\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.Properties.Resources.resources
+D:\Letsgo\Clientev3\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.ViewBebida.resources
+D:\Letsgo\Clientev3\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.ViewOrden.resources
+D:\Letsgo\Clientev3\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.csproj.GenerateResource.cache
+D:\Letsgo\Clientev3\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Letsgo\Clientev3\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.AssemblyInfoInputs.cache
+D:\Letsgo\Clientev3\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.AssemblyInfo.cs
+D:\Letsgo\Clientev3\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.csproj.CoreCompileInputs.cache
+D:\Letsgo\Clientev3\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.csproj.CopyComplete
+D:\Letsgo\Clientev3\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.dll
+D:\Letsgo\Clientev3\clientapp\tablesttest\obj\Debug\net6.0-windows\refint\tablesttest.dll
+D:\Letsgo\Clientev3\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.pdb
+D:\Letsgo\Clientev3\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.genruntimeconfig.cache
+D:\Letsgo\Clientev3\clientapp\tablesttest\obj\Debug\net6.0-windows\ref\tablesttest.dll
+D:\Letsgo\Clientev3\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.ViewBebida1.resources
+D:\Letsgo\Clientev3\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.PedirExtra.resources
+D:\Letsgo\Clientev3\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.Menu.resources
+D:\Letsgo\Clientev3\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.PagarPedido.resources
+D:\Letsgo\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\Letsgo\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\Letsgo\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\Letsgo\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\Letsgo\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\Letsgo\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\Letsgo\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\Letsgo\Clientev3\clientapp\tablesttest\bin\Debug\net6.0-windows\Transbank.dll
+D:\Letsgo\Clientev3\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.ViewBrowser.resources
+D:\Letsgo\Clientev3 (vistas José)\clientapp\tablesttest\bin\Debug\net6.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\Letsgo\Clientev3 (vistas José)\clientapp\tablesttest\bin\Debug\net6.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\Letsgo\Clientev3 (vistas José)\clientapp\tablesttest\bin\Debug\net6.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\Letsgo\Clientev3 (vistas José)\clientapp\tablesttest\bin\Debug\net6.0-windows\tablesttest.exe
+D:\Letsgo\Clientev3 (vistas José)\clientapp\tablesttest\bin\Debug\net6.0-windows\tablesttest.deps.json
+D:\Letsgo\Clientev3 (vistas José)\clientapp\tablesttest\bin\Debug\net6.0-windows\tablesttest.runtimeconfig.json
+D:\Letsgo\Clientev3 (vistas José)\clientapp\tablesttest\bin\Debug\net6.0-windows\tablesttest.dll
+D:\Letsgo\Clientev3 (vistas José)\clientapp\tablesttest\bin\Debug\net6.0-windows\tablesttest.pdb
+D:\Letsgo\Clientev3 (vistas José)\clientapp\tablesttest\bin\Debug\net6.0-windows\Humanizer.dll
+D:\Letsgo\Clientev3 (vistas José)\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Letsgo\Clientev3 (vistas José)\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Letsgo\Clientev3 (vistas José)\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Letsgo\Clientev3 (vistas José)\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Letsgo\Clientev3 (vistas José)\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Letsgo\Clientev3 (vistas José)\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Letsgo\Clientev3 (vistas José)\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Letsgo\Clientev3 (vistas José)\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Letsgo\Clientev3 (vistas José)\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Letsgo\Clientev3 (vistas José)\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\Letsgo\Clientev3 (vistas José)\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Letsgo\Clientev3 (vistas José)\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\Letsgo\Clientev3 (vistas José)\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Letsgo\Clientev3 (vistas José)\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\Letsgo\Clientev3 (vistas José)\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\Letsgo\Clientev3 (vistas José)\clientapp\tablesttest\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\Letsgo\Clientev3 (vistas José)\clientapp\tablesttest\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\Letsgo\Clientev3 (vistas José)\clientapp\tablesttest\bin\Debug\net6.0-windows\Oracle.EntityFrameworkCore.dll
+D:\Letsgo\Clientev3 (vistas José)\clientapp\tablesttest\bin\Debug\net6.0-windows\Oracle.ManagedDataAccess.dll
+D:\Letsgo\Clientev3 (vistas José)\clientapp\tablesttest\bin\Debug\net6.0-windows\System.DirectoryServices.Protocols.dll
+D:\Letsgo\Clientev3 (vistas José)\clientapp\tablesttest\bin\Debug\net6.0-windows\Transbank.dll
+D:\Letsgo\Clientev3 (vistas José)\clientapp\tablesttest\bin\Debug\net6.0-windows\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\Letsgo\Clientev3 (vistas José)\clientapp\tablesttest\bin\Debug\net6.0-windows\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\Letsgo\Clientev3 (vistas José)\clientapp\tablesttest\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\Letsgo\Clientev3 (vistas José)\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.csproj.AssemblyReference.cache
+D:\Letsgo\Clientev3 (vistas José)\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.Menu.resources
+D:\Letsgo\Clientev3 (vistas José)\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.MUser.resources
+D:\Letsgo\Clientev3 (vistas José)\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.PagarPedido.resources
+D:\Letsgo\Clientev3 (vistas José)\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.PedirExtra.resources
+D:\Letsgo\Clientev3 (vistas José)\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.Properties.Resources.resources
+D:\Letsgo\Clientev3 (vistas José)\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.ViewBebida.resources
+D:\Letsgo\Clientev3 (vistas José)\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.ViewBebida1.resources
+D:\Letsgo\Clientev3 (vistas José)\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.ViewBrowser.resources
+D:\Letsgo\Clientev3 (vistas José)\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.ViewOrden.resources
+D:\Letsgo\Clientev3 (vistas José)\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.csproj.GenerateResource.cache
+D:\Letsgo\Clientev3 (vistas José)\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Letsgo\Clientev3 (vistas José)\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.AssemblyInfoInputs.cache
+D:\Letsgo\Clientev3 (vistas José)\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.AssemblyInfo.cs
+D:\Letsgo\Clientev3 (vistas José)\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.csproj.CoreCompileInputs.cache
+D:\Letsgo\Clientev3 (vistas José)\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.csproj.CopyComplete
+D:\Letsgo\Clientev3 (vistas José)\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.dll
+D:\Letsgo\Clientev3 (vistas José)\clientapp\tablesttest\obj\Debug\net6.0-windows\refint\tablesttest.dll
+D:\Letsgo\Clientev3 (vistas José)\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.pdb
+D:\Letsgo\Clientev3 (vistas José)\clientapp\tablesttest\obj\Debug\net6.0-windows\tablesttest.genruntimeconfig.cache
+D:\Letsgo\Clientev3 (vistas José)\clientapp\tablesttest\obj\Debug\net6.0-windows\ref\tablesttest.dll
+N:\Repo\Portafolio\tablesttest\bin\Debug\net6.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+N:\Repo\Portafolio\tablesttest\bin\Debug\net6.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+N:\Repo\Portafolio\tablesttest\bin\Debug\net6.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
 N:\Repo\Portafolio\tablesttest\bin\Debug\net6.0-windows\tablesttest.exe
 N:\Repo\Portafolio\tablesttest\bin\Debug\net6.0-windows\tablesttest.deps.json
 N:\Repo\Portafolio\tablesttest\bin\Debug\net6.0-windows\tablesttest.runtimeconfig.json
@@ -140,20 +207,26 @@ N:\Repo\Portafolio\tablesttest\bin\Debug\net6.0-windows\Microsoft.Extensions.Log
 N:\Repo\Portafolio\tablesttest\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
 N:\Repo\Portafolio\tablesttest\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
 N:\Repo\Portafolio\tablesttest\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+N:\Repo\Portafolio\tablesttest\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Core.dll
+N:\Repo\Portafolio\tablesttest\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.WinForms.dll
+N:\Repo\Portafolio\tablesttest\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
+N:\Repo\Portafolio\tablesttest\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
 N:\Repo\Portafolio\tablesttest\bin\Debug\net6.0-windows\Oracle.EntityFrameworkCore.dll
 N:\Repo\Portafolio\tablesttest\bin\Debug\net6.0-windows\Oracle.ManagedDataAccess.dll
 N:\Repo\Portafolio\tablesttest\bin\Debug\net6.0-windows\System.DirectoryServices.Protocols.dll
+N:\Repo\Portafolio\tablesttest\bin\Debug\net6.0-windows\Transbank.dll
 N:\Repo\Portafolio\tablesttest\bin\Debug\net6.0-windows\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
 N:\Repo\Portafolio\tablesttest\bin\Debug\net6.0-windows\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
 N:\Repo\Portafolio\tablesttest\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
 N:\Repo\Portafolio\tablesttest\obj\Debug\net6.0-windows\tablesttest.csproj.AssemblyReference.cache
-N:\Repo\Portafolio\tablesttest\obj\Debug\net6.0-windows\tablesttest.Form1.resources
-N:\Repo\Portafolio\tablesttest\obj\Debug\net6.0-windows\tablesttest.Login.resources
-N:\Repo\Portafolio\tablesttest\obj\Debug\net6.0-windows\tablesttest.LoginUser.resources
+N:\Repo\Portafolio\tablesttest\obj\Debug\net6.0-windows\tablesttest.Menu.resources
 N:\Repo\Portafolio\tablesttest\obj\Debug\net6.0-windows\tablesttest.MUser.resources
+N:\Repo\Portafolio\tablesttest\obj\Debug\net6.0-windows\tablesttest.PagarPedido.resources
+N:\Repo\Portafolio\tablesttest\obj\Debug\net6.0-windows\tablesttest.PedirExtra.resources
 N:\Repo\Portafolio\tablesttest\obj\Debug\net6.0-windows\tablesttest.Properties.Resources.resources
-N:\Repo\Portafolio\tablesttest\obj\Debug\net6.0-windows\tablesttest.ViewBebida.resources
-N:\Repo\Portafolio\tablesttest\obj\Debug\net6.0-windows\tablesttest.viewOrden.resources
+N:\Repo\Portafolio\tablesttest\obj\Debug\net6.0-windows\tablesttest.ViewBebida1.resources
+N:\Repo\Portafolio\tablesttest\obj\Debug\net6.0-windows\tablesttest.ViewBrowser.resources
+N:\Repo\Portafolio\tablesttest\obj\Debug\net6.0-windows\tablesttest.ViewOrden.resources
 N:\Repo\Portafolio\tablesttest\obj\Debug\net6.0-windows\tablesttest.csproj.GenerateResource.cache
 N:\Repo\Portafolio\tablesttest\obj\Debug\net6.0-windows\tablesttest.GeneratedMSBuildEditorConfig.editorconfig
 N:\Repo\Portafolio\tablesttest\obj\Debug\net6.0-windows\tablesttest.AssemblyInfoInputs.cache

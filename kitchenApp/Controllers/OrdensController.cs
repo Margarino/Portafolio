@@ -170,7 +170,7 @@ namespace kitchenApp.Controllers
 
 
 
-
+        //Somebody please end my suffering
         public async Task<IActionResult> changeOrderOngoing(decimal id, Orden orden)
         {
             var context = new ModelContext();
@@ -198,6 +198,13 @@ namespace kitchenApp.Controllers
 
             return RedirectToAction(nameof(Index));
         }
+
+
+
+
+
+
+
 
 
 

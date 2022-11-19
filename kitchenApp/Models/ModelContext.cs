@@ -154,6 +154,10 @@ namespace kitchenApp.Models
                     .IsUnicode(false)
                     .HasColumnName("NOMBREINGREDIENTE");
 
+                entity.Property(e => e.Precioingrediente)
+                    .HasColumnType("NUMBER")
+                    .HasColumnName("PRECIOINGREDIENTE");
+
                 entity.Property(e => e.Unidadmedida)
                     .HasMaxLength(20)
                     .IsUnicode(false)
