@@ -28,7 +28,7 @@ namespace tableApi.Controllers
             return View(cartVM);
         }
 
-        public async Task<IActionResult> Add(long id)
+        public async Task<IActionResult> Add(decimal id)
         {
             Plato product = await _context.Platos.FindAsync(id);
 
