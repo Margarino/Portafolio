@@ -12,32 +12,35 @@
     <header>
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
             <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index"><h6>Salir</h6></a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index"><h6>Home</h6></a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy"><h6>Privacy</h6></a>
-                        </li>
-                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="LogOut"><h6>Log Out</h6></a>
-                        </li>
-                    </ul>
-                </div>
+                 <a class="navbar-brand" asp-controller="Productos" asp-action="Index"><h6>Ingresar Orden</h6></a>
+
+                 <a class="navbar-brand" href="/Ingredientes/Index"><h6>Bebestibles</h6></a>
+
+                 <a class="navbar-brand" href="/Productoes/Index"><h6>Pedir Extra</h6></a>
+
+                  <a class="navbar-brand" href="/Platoes/Index"><h6>Pagar Cuenta</h6></a>
+
+                 <a class="navbar-brand"  href="/Recetums/Index"><h6>Llamar Mesero</h6></a>
             </div>
         </nav>
     </header>
     <div class="container">
-        <main role="main" class="pb-3">
-            @RenderBody()
-        </main>
-    </div>
+                <main role="main" class="pb-3">
+                        <div class="row">
+                                <div class="col-3">
+                                        <vc:categories />
+
+                                        <div class="bg-success mt-3 p-3 text-white">
+                                                <vc:small-cart />
+                                        </div>
+                                </div>
+                                <div class="col">
+                                        <partial name="_NotificationPartial" />
+                                        @RenderBody()
+                                </div>
+                        </div>
+                </main>
+        </div>
 
     <footer class="border-top footer text-muted">
         <div class="container">

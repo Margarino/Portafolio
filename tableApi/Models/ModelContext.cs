@@ -1,4 +1,5 @@
-﻿using System;
+﻿using System.Web;
+using System;
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
@@ -28,7 +29,7 @@ namespace tableApi.Models
         public virtual DbSet<Plato> Platos { get; set; } = null!;
         public virtual DbSet<Producto> Productos { get; set; } = null!;
         public virtual DbSet<Recetum> Receta { get; set; } = null!;
-
+        public DbSet<Category> Categories { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             if (!optionsBuilder.IsConfigured)

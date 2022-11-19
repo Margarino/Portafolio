@@ -20,36 +20,57 @@ namespace tableApi.Controllers
         // GET: Productoes
         public async Task<IActionResult> Index()
         {
-            return View(await _context.Productos.ToListAsync());
+            return View(await _context.Platos.ToListAsync());
         }
         // GET: Productos/Details/5
-        public ActionResult Details(int id)
+        public ActionResult AgregarCarrito(int id)
         {
             return View();
         }
-
-        public ActionResult Edit(int id)
-        {
-            return View();
-        }
-
 
         // GET: Productoes/Details/5
-        public async Task<IActionResult> Details(decimal? id)
+        public async Task<IActionResult> AgregarCarrito(decimal? id)
         {
-            if (id == null || _context.Productos == null)
+            if (id == null || _context.Platos == null)
             {
                 return NotFound();
             }
 
-            var producto = await _context.Productos
-                .FirstOrDefaultAsync(m => m.Idproducto == id);
+            var producto = await _context.Platos
+                .FirstOrDefaultAsync(m => m.Idplato == id);
             if (producto == null)
             {
                 return NotFound();
             }
-
+            else
+            {
+                _context.Add(producto);
+                await _context.SaveChangesAsync();
+                return RedirectToAction(nameof(Index));
+            }
             return View(producto);
         }
+        // GET: Productoes/Create
+        public IActionResult Create()
+        {
+            return View();
+        }
+
+        // POST: Productoes/Create
+        // To protect from overposting attacks, enable the specific properties you want to bind to.
+        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Create([Bind("Idproducto,Descripcionproducto,Valorproducto")] Plato platos)
+        {
+            if (ModelState.IsValid)
+            {
+                _context.Add(platos);
+                await _context.SaveChangesAsync();
+                return RedirectToAction(nameof(Index));
+            }
+            return View(platos);
+        }
+
     }
 }
