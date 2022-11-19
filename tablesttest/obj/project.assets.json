@@ -529,6 +529,16 @@
             "rid": "win"
           }
         }
+      },
+      "Controlador/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Controlador.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Controlador.dll": {}
+        }
       }
     }
   },
@@ -1384,28 +1394,34 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "Controlador/1.0.0": {
+      "type": "project",
+      "path": "../Controlador/Controlador.csproj",
+      "msbuildProject": "../Controlador/Controlador.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0-windows7.0": [
+      "Controlador >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.10",
       "Oracle.EntityFrameworkCore >= 6.21.61"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\iquir\\.nuget\\packages\\": {}
+    "C:\\Users\\fried\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "N:\\Repo\\Portafolio\\tablesttest\\tablesttest.csproj",
+      "projectUniqueName": "D:\\GitHub\\Portafolio2\\tablesttest\\tablesttest.csproj",
       "projectName": "tablesttest",
-      "projectPath": "N:\\Repo\\Portafolio\\tablesttest\\tablesttest.csproj",
-      "packagesPath": "C:\\Users\\iquir\\.nuget\\packages\\",
-      "outputPath": "N:\\Repo\\Portafolio\\tablesttest\\obj\\",
+      "projectPath": "D:\\GitHub\\Portafolio2\\tablesttest\\tablesttest.csproj",
+      "packagesPath": "C:\\Users\\fried\\.nuget\\packages\\",
+      "outputPath": "D:\\GitHub\\Portafolio2\\tablesttest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\iquir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\fried\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1418,7 +1434,11 @@
       "frameworks": {
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\GitHub\\Portafolio2\\Controlador\\Controlador.csproj": {
+              "projectPath": "D:\\GitHub\\Portafolio2\\Controlador\\Controlador.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -1448,7 +1468,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -1460,7 +1481,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
