@@ -10,7 +10,7 @@ namespace tableApi.Models
             Receta = new HashSet<Recetum>();
         }
 
-        public decimal Idproducto { get; set; }
+        public decimal? Idproducto { get; set; }
         public string? Descripcionproducto { get; set; }
         public decimal? Valorproducto { get; set; }
 

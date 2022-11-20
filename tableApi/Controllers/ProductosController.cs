@@ -21,6 +21,7 @@ namespace tableApi.Controllers
         public async Task<IActionResult> Index()
         {
             return View(await _context.Platos.ToListAsync());
+   
         }
         // GET: Productos/Details/5
         public ActionResult AgregarCarrito(int id)

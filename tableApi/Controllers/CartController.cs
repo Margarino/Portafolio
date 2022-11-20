@@ -13,6 +13,7 @@ namespace tableApi.Controllers
         public CartController(ModelContext context)
         {
             _context = context;
+            
         }
 
         public IActionResult Index()
@@ -48,15 +49,14 @@ namespace tableApi.Controllers
             HttpContext.Session.SetJson("Cart", cart);
 
             TempData["Success"] = "El Producto ha sido agregado";
-
             return Redirect(Request.Headers["Referer"].ToString());
         }
 
-        public async Task<IActionResult> Decrease(long id)
+        public async Task<IActionResult> Decrease(decimal? id)
         {
             List<CartItem> cart = HttpContext.Session.GetJson<List<CartItem>>("Cart");
 
-            CartItem cartItem = cart.Where(c => c.ProductId == id).FirstOrDefault();
+            CartItem cartItem = cart.Where(c => c.ProductId.Value == id).FirstOrDefault();
 
             if (cartItem.Quantity > 1)
             {
@@ -81,7 +81,7 @@ namespace tableApi.Controllers
             return RedirectToAction("Index");
         }
 
-        public async Task<IActionResult> Remove(long id)
+        public async Task<IActionResult> Remove(int id)
         {
             List<CartItem> cart = HttpContext.Session.GetJson<List<CartItem>>("Cart");
 

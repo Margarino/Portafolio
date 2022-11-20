@@ -1,5 +1,5 @@
 ﻿
-namespace tableApi.Models
+namespace tableApi.Models.ViewModels
 {
     public class CartItem
     {
@@ -15,15 +15,18 @@ namespace tableApi.Models
         public CartItem()
         {
         }
-
+        
         public CartItem(Plato product)
         {
+
             ProductId = product.Idplato;
             ProductName = product.Nombreplato;
             Price = product.Valorplato;
             Quantity = 1;
             //Image = product.Image;
         }
+
+        
 
     }
 
