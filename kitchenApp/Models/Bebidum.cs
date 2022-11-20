@@ -8,5 +8,6 @@ namespace kitchenApp.Models
         public decimal Idbebida { get; set; }
         public string? Nombrebebida { get; set; }
         public decimal? Valorbebida { get; set; }
+        public decimal? Cantidadbebida { get; set; }
     }
 }

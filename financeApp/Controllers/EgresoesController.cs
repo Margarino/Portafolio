@@ -6,8 +6,6 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using financeApp.Models;
-using Microsoft.EntityFrameworkCore;
-//using EPPlus;
 
 namespace financeApp.Controllers
 {
@@ -159,6 +157,4 @@ namespace financeApp.Controllers
           return _context.Egresos.Any(e => e.Idegreso == id);
         }
     }
-
-    
 }

@@ -17,8 +17,10 @@ namespace crudAdmin.Models
         }
 
         public virtual DbSet<Adm> Adms { get; set; } = null!;
+        public virtual DbSet<Bebidum> Bebida { get; set; } = null!;
         public virtual DbSet<Egreso> Egresos { get; set; } = null!;
         public virtual DbSet<Empleado> Empleados { get; set; } = null!;
+        public virtual DbSet<Empleado2> Empleado2s { get; set; } = null!;
         public virtual DbSet<Ingrediente> Ingredientes { get; set; } = null!;
         public virtual DbSet<Ingreso> Ingresos { get; set; } = null!;
         public virtual DbSet<Mesa> Mesas { get; set; } = null!;
@@ -65,6 +67,31 @@ namespace crudAdmin.Models
                     .HasConstraintName("FK_ADM");
             });
 
+            modelBuilder.Entity<Bebidum>(entity =>
+            {
+                entity.HasKey(e => e.Idbebida);
+
+                entity.ToTable("BEBIDA");
+
+                entity.Property(e => e.Idbebida)
+                    .HasColumnType("NUMBER")
+                    .ValueGeneratedOnAdd()
+                    .HasColumnName("IDBEBIDA");
+
+                entity.Property(e => e.Cantidadbebida)
+                    .HasColumnType("NUMBER")
+                    .HasColumnName("CANTIDADBEBIDA");
+
+                entity.Property(e => e.Nombrebebida)
+                    .HasMaxLength(20)
+                    .IsUnicode(false)
+                    .HasColumnName("NOMBREBEBIDA");
+
+                entity.Property(e => e.Valorbebida)
+                    .HasColumnType("NUMBER")
+                    .HasColumnName("VALORBEBIDA");
+            });
+
             modelBuilder.Entity<Egreso>(entity =>
             {
                 entity.HasKey(e => e.Idegreso);
@@ -73,6 +100,7 @@ namespace crudAdmin.Models
 
                 entity.Property(e => e.Idegreso)
                     .HasColumnType("NUMBER")
+                    .ValueGeneratedOnAdd()
                     .HasColumnName("IDEGRESO");
 
                 entity.Property(e => e.Descripcionegreso)
@@ -111,6 +139,32 @@ namespace crudAdmin.Models
                     .HasColumnName("NOMBRE");
             });
 
+            modelBuilder.Entity<Empleado2>(entity =>
+            {
+                entity.HasKey(e => e.Rut);
+
+                entity.ToTable("EMPLEADO2");
+
+                entity.Property(e => e.Rut)
+                    .HasMaxLength(12)
+                    .IsUnicode(false)
+                    .HasColumnName("RUT");
+
+                entity.Property(e => e.DescripcionCargo)
+                    .HasMaxLength(100)
+                    .IsUnicode(false)
+                    .HasColumnName("DESCRIPCION_CARGO");
+
+                entity.Property(e => e.IdCargo)
+                    .HasColumnType("NUMBER(38)")
+                    .HasColumnName("ID_CARGO");
+
+                entity.Property(e => e.Nombre)
+                    .HasMaxLength(50)
+                    .IsUnicode(false)
+                    .HasColumnName("NOMBRE");
+            });
+
             modelBuilder.Entity<Ingrediente>(entity =>
             {
                 entity.HasKey(e => e.Idingrediente);
@@ -118,8 +172,13 @@ namespace crudAdmin.Models
                 entity.ToTable("INGREDIENTE");
 
                 entity.Property(e => e.Idingrediente)
-                    .HasColumnType("NUMBER(38)")
+                    .HasColumnType("NUMBER")
+                    .ValueGeneratedOnAdd()
                     .HasColumnName("IDINGREDIENTE");
+
+                entity.Property(e => e.Cantidad)
+                    .HasColumnType("NUMBER")
+                    .HasColumnName("CANTIDAD");
 
                 entity.Property(e => e.Nombreingrediente)
                     .HasMaxLength(50)
@@ -127,8 +186,13 @@ namespace crudAdmin.Models
                     .HasColumnName("NOMBREINGREDIENTE");
 
                 entity.Property(e => e.Precioingrediente)
-                    .HasColumnType("NUMBER(38)")
+                    .HasColumnType("NUMBER")
                     .HasColumnName("PRECIOINGREDIENTE");
+
+                entity.Property(e => e.Unidadmedida)
+                    .HasMaxLength(20)
+                    .IsUnicode(false)
+                    .HasColumnName("UNIDADMEDIDA");
             });
 
             modelBuilder.Entity<Ingreso>(entity =>
@@ -139,6 +203,7 @@ namespace crudAdmin.Models
 
                 entity.Property(e => e.Idingreso)
                     .HasColumnType("NUMBER")
+                    .ValueGeneratedOnAdd()
                     .HasColumnName("IDINGRESO");
 
                 entity.Property(e => e.Descripcioningreso)
@@ -182,25 +247,26 @@ namespace crudAdmin.Models
                 entity.ToTable("ORDEN");
 
                 entity.Property(e => e.Idorden)
-                    .HasColumnType("NUMBER(38)")
+                    .HasColumnType("NUMBER")
+                    .ValueGeneratedOnAdd()
                     .HasColumnName("IDORDEN");
 
                 entity.Property(e => e.Contenidoorden)
-                    .HasMaxLength(250)
+                    .HasMaxLength(25)
                     .IsUnicode(false)
                     .HasColumnName("CONTENIDOORDEN");
 
-                entity.Property(e => e.Estadopedido)
+                entity.Property(e => e.Estadoorden)
                     .HasMaxLength(30)
                     .IsUnicode(false)
-                    .HasColumnName("ESTADOPEDIDO");
+                    .HasColumnName("ESTADOORDEN");
 
                 entity.Property(e => e.Idmesa)
-                    .HasColumnType("NUMBER(38)")
+                    .HasColumnType("NUMBER")
                     .HasColumnName("IDMESA");
 
                 entity.Property(e => e.Total)
-                    .HasColumnType("NUMBER(38)")
+                    .HasColumnType("NUMBER")
                     .HasColumnName("TOTAL");
 
                 entity.HasOne(d => d.IdmesaNavigation)
@@ -217,6 +283,7 @@ namespace crudAdmin.Models
 
                 entity.Property(e => e.Idpedido)
                     .HasColumnType("NUMBER(38)")
+                    .ValueGeneratedOnAdd()
                     .HasColumnName("IDPEDIDO");
 
                 entity.Property(e => e.Contpedido)
@@ -241,22 +308,33 @@ namespace crudAdmin.Models
 
                 entity.ToTable("PLATO");
 
-                entity.HasIndex(e => e.Nombreplato, "SYS_C0011011")
-                    .IsUnique();
-
                 entity.Property(e => e.Idplato)
                     .HasColumnType("NUMBER")
+                    .ValueGeneratedOnAdd()
                     .HasColumnName("IDPLATO");
 
-                entity.Property(e => e.Descripcionplato)
+                entity.Property(e => e.DescripcionPlato)
                     .HasMaxLength(250)
                     .IsUnicode(false)
-                    .HasColumnName("DESCRIPCIONPLATO");
+                    .HasColumnName("DESCRIPCION_PLATO");
+
+                entity.Property(e => e.Idreceta)
+                    .HasColumnType("NUMBER")
+                    .HasColumnName("IDRECETA");
 
                 entity.Property(e => e.Nombreplato)
                     .HasMaxLength(50)
                     .IsUnicode(false)
                     .HasColumnName("NOMBREPLATO");
+
+                entity.Property(e => e.Valorplato)
+                    .HasColumnType("NUMBER")
+                    .HasColumnName("VALORPLATO");
+
+                entity.HasOne(d => d.IdrecetaNavigation)
+                    .WithMany(p => p.Platos)
+                    .HasForeignKey(d => d.Idreceta)
+                    .HasConstraintName("FK_IDRECETA");
             });
 
             modelBuilder.Entity<Producto>(entity =>
@@ -267,7 +345,12 @@ namespace crudAdmin.Models
 
                 entity.Property(e => e.Idproducto)
                     .HasColumnType("NUMBER")
+                    .ValueGeneratedOnAdd()
                     .HasColumnName("IDPRODUCTO");
+
+                entity.Property(e => e.Cantidadproducto)
+                    .HasColumnType("NUMBER")
+                    .HasColumnName("CANTIDADPRODUCTO");
 
                 entity.Property(e => e.Descripcionproducto)
                     .HasMaxLength(250)
@@ -287,6 +370,7 @@ namespace crudAdmin.Models
 
                 entity.Property(e => e.Idreceta)
                     .HasColumnType("NUMBER")
+                    .ValueGeneratedOnAdd()
                     .HasColumnName("IDRECETA");
 
                 entity.Property(e => e.Idingrediente)
@@ -307,6 +391,24 @@ namespace crudAdmin.Models
                     .HasForeignKey(d => d.Idproducto)
                     .HasConstraintName("FK_RECETA2");
             });
+
+            modelBuilder.HasSequence("INGRESOBEBIDA");
+
+            modelBuilder.HasSequence("INGRESOEGRESO");
+
+            modelBuilder.HasSequence("INGRESOINGEDIENTE");
+
+            modelBuilder.HasSequence("INGRESOINGRESO");
+
+            modelBuilder.HasSequence("INGRESOORDEN");
+
+            modelBuilder.HasSequence("INGRESOPEDIDO");
+
+            modelBuilder.HasSequence("INGRESOPLATO");
+
+            modelBuilder.HasSequence("INGRESOPRODUCTO");
+
+            modelBuilder.HasSequence("INGRESORECETA");
 
             OnModelCreatingPartial(modelBuilder);
         }

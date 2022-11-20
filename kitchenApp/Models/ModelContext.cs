@@ -20,6 +20,7 @@ namespace kitchenApp.Models
         public virtual DbSet<Bebidum> Bebida { get; set; } = null!;
         public virtual DbSet<Egreso> Egresos { get; set; } = null!;
         public virtual DbSet<Empleado> Empleados { get; set; } = null!;
+        public virtual DbSet<Empleado2> Empleado2s { get; set; } = null!;
         public virtual DbSet<Ingrediente> Ingredientes { get; set; } = null!;
         public virtual DbSet<Ingreso> Ingresos { get; set; } = null!;
         public virtual DbSet<Mesa> Mesas { get; set; } = null!;
@@ -76,6 +77,10 @@ namespace kitchenApp.Models
                     .HasColumnType("NUMBER")
                     .ValueGeneratedOnAdd()
                     .HasColumnName("IDBEBIDA");
+
+                entity.Property(e => e.Cantidadbebida)
+                    .HasColumnType("NUMBER")
+                    .HasColumnName("CANTIDADBEBIDA");
 
                 entity.Property(e => e.Nombrebebida)
                     .HasMaxLength(20)
@@ -134,6 +139,32 @@ namespace kitchenApp.Models
                     .HasColumnName("NOMBRE");
             });
 
+            modelBuilder.Entity<Empleado2>(entity =>
+            {
+                entity.HasKey(e => e.Rut);
+
+                entity.ToTable("EMPLEADO2");
+
+                entity.Property(e => e.Rut)
+                    .HasMaxLength(12)
+                    .IsUnicode(false)
+                    .HasColumnName("RUT");
+
+                entity.Property(e => e.DescripcionCargo)
+                    .HasMaxLength(100)
+                    .IsUnicode(false)
+                    .HasColumnName("DESCRIPCION_CARGO");
+
+                entity.Property(e => e.IdCargo)
+                    .HasColumnType("NUMBER(38)")
+                    .HasColumnName("ID_CARGO");
+
+                entity.Property(e => e.Nombre)
+                    .HasMaxLength(50)
+                    .IsUnicode(false)
+                    .HasColumnName("NOMBRE");
+            });
+
             modelBuilder.Entity<Ingrediente>(entity =>
             {
                 entity.HasKey(e => e.Idingrediente);
@@ -153,6 +184,10 @@ namespace kitchenApp.Models
                     .HasMaxLength(50)
                     .IsUnicode(false)
                     .HasColumnName("NOMBREINGREDIENTE");
+
+                entity.Property(e => e.Precioingrediente)
+                    .HasColumnType("NUMBER")
+                    .HasColumnName("PRECIOINGREDIENTE");
 
                 entity.Property(e => e.Unidadmedida)
                     .HasMaxLength(20)
@@ -278,6 +313,11 @@ namespace kitchenApp.Models
                     .ValueGeneratedOnAdd()
                     .HasColumnName("IDPLATO");
 
+                entity.Property(e => e.DescripcionPlato)
+                    .HasMaxLength(250)
+                    .IsUnicode(false)
+                    .HasColumnName("DESCRIPCION_PLATO");
+
                 entity.Property(e => e.Idreceta)
                     .HasColumnType("NUMBER")
                     .HasColumnName("IDRECETA");
@@ -286,6 +326,10 @@ namespace kitchenApp.Models
                     .HasMaxLength(50)
                     .IsUnicode(false)
                     .HasColumnName("NOMBREPLATO");
+
+                entity.Property(e => e.Valorplato)
+                    .HasColumnType("NUMBER")
+                    .HasColumnName("VALORPLATO");
 
                 entity.HasOne(d => d.IdrecetaNavigation)
                     .WithMany(p => p.Platos)
@@ -303,6 +347,10 @@ namespace kitchenApp.Models
                     .HasColumnType("NUMBER")
                     .ValueGeneratedOnAdd()
                     .HasColumnName("IDPRODUCTO");
+
+                entity.Property(e => e.Cantidadproducto)
+                    .HasColumnType("NUMBER")
+                    .HasColumnName("CANTIDADPRODUCTO");
 
                 entity.Property(e => e.Descripcionproducto)
                     .HasMaxLength(250)

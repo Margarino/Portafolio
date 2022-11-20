@@ -56,7 +56,7 @@ namespace kitchenApp.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Idplato,Idreceta,Nombreplato")] Plato plato)
+        public async Task<IActionResult> Create([Bind("Idplato,Idreceta,Nombreplato,Valorplato,DescripcionPlato")] Plato plato)
         {
             if (ModelState.IsValid)
             {
@@ -90,7 +90,7 @@ namespace kitchenApp.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(decimal id, [Bind("Idplato,Idreceta,Nombreplato")] Plato plato)
+        public async Task<IActionResult> Edit(decimal id, [Bind("Idplato,Idreceta,Nombreplato,Valorplato,DescripcionPlato")] Plato plato)
         {
             if (id != plato.Idplato)
             {

@@ -16,6 +16,12 @@
                 @Html.DisplayNameFor(model => model.Nombreplato)
             </th>
             <th>
+                @Html.DisplayNameFor(model => model.Valorplato)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DescripcionPlato)
+            </th>
+            <th>
                 @Html.DisplayNameFor(model => model.IdrecetaNavigation)
             </th>
             <th></th>
@@ -26,6 +32,12 @@
         <tr>
             <td>
                 @Html.DisplayFor(modelItem => item.Nombreplato)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Valorplato)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DescripcionPlato)
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.IdrecetaNavigation.Idreceta)

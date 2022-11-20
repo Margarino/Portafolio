@@ -167,10 +167,6 @@ namespace kitchenApp.Controllers
 
 
 
-
-
-
-
         public async Task<IActionResult> changeOrderOngoing(decimal id, Orden orden)
         {
             var context = new ModelContext();
@@ -198,6 +194,32 @@ namespace kitchenApp.Controllers
 
             return RedirectToAction(nameof(Index));
         }
+
+        public async Task<IActionResult> changeOrderOngoing3(decimal id, Orden orden)
+        {
+            var context = new ModelContext();
+            var result = context.Ordens.SingleOrDefault(b => b.Idorden == id);
+            if (result != null)
+            {
+                result.Estadoorden = "Terminado";
+                context.SaveChanges();
+            }
+
+
+            return RedirectToAction(nameof(Index));
+        }
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

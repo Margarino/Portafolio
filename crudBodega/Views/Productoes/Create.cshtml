@@ -4,7 +4,7 @@
     ViewData["Title"] = "Create";
 }
 
-<h1>Crear</h1>
+<h1>Create</h1>
 
 <h4>Producto</h4>
 <hr />
@@ -13,29 +13,29 @@
         <form asp-action="Create">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
-                <label asp-for="Idproducto" class="control-label">Id Producto</label>
-                <input asp-for="Idproducto" class="form-control" />
-                <span asp-validation-for="Idproducto" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="Descripcionproducto" class="control-label">Descripción Producto</label>
+                <label asp-for="Descripcionproducto" class="control-label"></label>
                 <input asp-for="Descripcionproducto" class="form-control" />
                 <span asp-validation-for="Descripcionproducto" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="Valorproducto" class="control-label">Valor Producto</label>
+                <label asp-for="Valorproducto" class="control-label"></label>
                 <input asp-for="Valorproducto" class="form-control" />
                 <span asp-validation-for="Valorproducto" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <input type="submit" value="Crear" class="btn btn-primary" />
+                <label asp-for="Cantidadproducto" class="control-label"></label>
+                <input asp-for="Cantidadproducto" class="form-control" />
+                <span asp-validation-for="Cantidadproducto" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
             </div>
         </form>
     </div>
 </div>
 
 <div>
-    <a asp-action="Index">Volver a la lista</a>
+    <a asp-action="Index">Back to List</a>
 </div>
 
 @section Scripts {

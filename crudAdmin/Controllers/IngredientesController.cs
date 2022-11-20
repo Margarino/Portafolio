@@ -53,7 +53,7 @@ namespace crudAdmin.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Idingrediente,Nombreingrediente,Precioingrediente")] Ingrediente ingrediente)
+        public async Task<IActionResult> Create([Bind("Idingrediente,Nombreingrediente,Unidadmedida,Cantidad,Precioingrediente")] Ingrediente ingrediente)
         {
             if (ModelState.IsValid)
             {
@@ -85,7 +85,7 @@ namespace crudAdmin.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(decimal id, [Bind("Idingrediente,Nombreingrediente,Precioingrediente")] Ingrediente ingrediente)
+        public async Task<IActionResult> Edit(decimal id, [Bind("Idingrediente,Nombreingrediente,Unidadmedida,Cantidad,Precioingrediente")] Ingrediente ingrediente)
         {
             if (id != ingrediente.Idingrediente)
             {

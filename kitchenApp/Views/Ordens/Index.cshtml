@@ -28,6 +28,8 @@
         </tr>
     </thead>
     <tbody>
+
+
 @foreach (var item in Model) {
         <tr>
             <td>
@@ -46,8 +48,9 @@
                 <a asp-action="Edit" asp-route-id="@item.Idorden">Edit</a> |
                 <a asp-action="Details" asp-route-id="@item.Idorden">Details</a> |
                 <a asp-action="Delete" asp-route-id="@item.Idorden">Delete</a>
-                <a asp-action="changeOrderOngoing" asp-route-id="@item.Idorden">Preparando Orden</a>
+                <a asp-action="changeOrderOngoing" asp-route-id="@item.Idorden">En proceso</a>
                 <a asp-action="changeOrderOngoing2" asp-route-id="@item.Idorden">Despachado</a>
+                <a asp-action="changeOrderOngoing3" asp-route-id="@item.Idorden">Terminado</a>
             </td>
         </tr>
 }

@@ -15,24 +15,24 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = N:\Repo\Portafolio\crudAdmin
 build_property._RazorSourceGeneratorDebug = 
 
-[N:/Repo/Portafolio/crudAdmin/Views/Empleadoes/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9lc1xDcmVhdGUuY3NodG1s
+[N:/Repo/Portafolio/crudAdmin/Views/Empleado2/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG8yXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[N:/Repo/Portafolio/crudAdmin/Views/Empleadoes/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9lc1xEZWxldGUuY3NodG1s
+[N:/Repo/Portafolio/crudAdmin/Views/Empleado2/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG8yXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[N:/Repo/Portafolio/crudAdmin/Views/Empleadoes/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9lc1xEZXRhaWxzLmNzaHRtbA==
+[N:/Repo/Portafolio/crudAdmin/Views/Empleado2/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG8yXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[N:/Repo/Portafolio/crudAdmin/Views/Empleadoes/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9lc1xFZGl0LmNzaHRtbA==
+[N:/Repo/Portafolio/crudAdmin/Views/Empleado2/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG8yXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[N:/Repo/Portafolio/crudAdmin/Views/Empleadoes/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9lc1xJbmRleC5jc2h0bWw=
+[N:/Repo/Portafolio/crudAdmin/Views/Empleado2/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG8yXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [N:/Repo/Portafolio/crudAdmin/Views/Home/Index.cshtml]

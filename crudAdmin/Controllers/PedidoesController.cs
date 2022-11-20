@@ -21,7 +21,8 @@ namespace crudAdmin.Controllers
         // GET: Pedidoes
         public async Task<IActionResult> Index()
         {
-              return View(await _context.Pedidos.ToListAsync());
+            var modelContext = _context.Pedidos.Include(p => p.RutNavigation);
+            return View(await modelContext.ToListAsync());
         }
 
         // GET: Pedidoes/Details/5
@@ -33,6 +34,7 @@ namespace crudAdmin.Controllers
             }
 
             var pedido = await _context.Pedidos
+                .Include(p => p.RutNavigation)
                 .FirstOrDefaultAsync(m => m.Idpedido == id);
             if (pedido == null)
             {
@@ -45,6 +47,7 @@ namespace crudAdmin.Controllers
         // GET: Pedidoes/Create
         public IActionResult Create()
         {
+            ViewData["Rut"] = new SelectList(_context.Adms, "Rut", "Rut");
             return View();
         }
 
@@ -61,6 +64,7 @@ namespace crudAdmin.Controllers
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
+            ViewData["Rut"] = new SelectList(_context.Adms, "Rut", "Rut", pedido.Rut);
             return View(pedido);
         }
 
@@ -77,6 +81,7 @@ namespace crudAdmin.Controllers
             {
                 return NotFound();
             }
+            ViewData["Rut"] = new SelectList(_context.Adms, "Rut", "Rut", pedido.Rut);
             return View(pedido);
         }
 
@@ -112,6 +117,7 @@ namespace crudAdmin.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
+            ViewData["Rut"] = new SelectList(_context.Adms, "Rut", "Rut", pedido.Rut);
             return View(pedido);
         }
 
@@ -124,6 +130,7 @@ namespace crudAdmin.Controllers
             }
 
             var pedido = await _context.Pedidos
+                .Include(p => p.RutNavigation)
                 .FirstOrDefaultAsync(m => m.Idpedido == id);
             if (pedido == null)
             {

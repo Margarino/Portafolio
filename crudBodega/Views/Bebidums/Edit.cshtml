@@ -1,0 +1,44 @@
+﻿@model crudBodega.Models.Bebidum
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Bebidum</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Idbebida" />
+            <div class="form-group">
+                <label asp-for="Nombrebebida" class="control-label"></label>
+                <input asp-for="Nombrebebida" class="form-control" />
+                <span asp-validation-for="Nombrebebida" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Valorbebida" class="control-label"></label>
+                <input asp-for="Valorbebida" class="form-control" />
+                <span asp-validation-for="Valorbebida" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Cantidadbebida" class="control-label"></label>
+                <input asp-for="Cantidadbebida" class="form-control" />
+                <span asp-validation-for="Cantidadbebida" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

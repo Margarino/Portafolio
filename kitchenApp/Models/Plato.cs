@@ -8,6 +8,8 @@ namespace kitchenApp.Models
         public decimal Idplato { get; set; }
         public decimal? Idreceta { get; set; }
         public string Nombreplato { get; set; } = null!;
+        public decimal? Valorplato { get; set; }
+        public string? DescripcionPlato { get; set; }
 
         public virtual Recetum? IdrecetaNavigation { get; set; }
     }
