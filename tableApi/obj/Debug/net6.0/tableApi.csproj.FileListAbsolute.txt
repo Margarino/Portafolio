@@ -1921,3 +1921,4 @@ D:\GitHub\Portafolio2\tableApi\obj\Debug\net6.0\refint\tableApi.dll
 D:\GitHub\Portafolio2\tableApi\obj\Debug\net6.0\tableApi.pdb
 D:\GitHub\Portafolio2\tableApi\obj\Debug\net6.0\tableApi.genruntimeconfig.cache
 D:\GitHub\Portafolio2\tableApi\obj\Debug\net6.0\ref\tableApi.dll
+D:\GitHub\Portafolio2\tableApi\bin\Debug\net6.0\Transbank.dll

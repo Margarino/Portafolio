@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/tableApi.styles.css" asp-append-version="true" />
+
 </head>
 <body>
     <header>
@@ -14,9 +15,9 @@
             <div class="container-fluid">
                  <a class="navbar-brand" asp-controller="Productos" asp-action="Index"><h6>Ingresar Orden</h6></a>
 
-                 <a class="navbar-brand" href="/Productos/Bebida"><h6>Bebestibles</h6></a>
+                 <a class="navbar-brand" asp-controller="Bebida" asp-action="Index"><h6>Bebestibles</h6></a>
 
-                 <a class="navbar-brand" href="/Productos/Bebida"><h6>Pedir Extra</h6></a>
+                 <a class="navbar-brand" asp-controller="Productos" asp-action="Index"><h6>Pedir Extra</h6></a>
 
                   <a class="navbar-brand" href="/Cart/Index"><h6>Pagar Cuenta</h6></a>
 
@@ -27,13 +28,7 @@
     <div class="container">
                 <main role="main" class="pb-3">
                         <div class="row">
-                                <div class="col-3">
-                                        <vc:categories />
 
-                                        <div class="bg-success mt-3 p-3 text-white">
-                                                <vc:small-cart />
-                                        </div>
-                                </div>
                                 <div class="col">
                                         <partial name="_NotificationPartial" />
                                         @RenderBody()

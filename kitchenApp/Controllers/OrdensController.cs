@@ -164,13 +164,6 @@ namespace kitchenApp.Controllers
           return _context.Ordens.Any(e => e.Idorden == id);
         }
 
-
-
-
-
-
-
-
         public async Task<IActionResult> changeOrderOngoing(decimal id, Orden orden)
         {
             var context = new ModelContext();

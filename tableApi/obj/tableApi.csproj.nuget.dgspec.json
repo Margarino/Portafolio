@@ -61,6 +61,10 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
+            },
+            "TransbankSDK": {
+              "target": "Package",
+              "version": "[6.0.0, )"
             }
           },
           "imports": [

@@ -2245,3 +2245,4 @@ D:\GitHub\Portafolio2\kitchenApp\obj\Debug\net6.0\refint\kitchenApp.dll
 D:\GitHub\Portafolio2\kitchenApp\obj\Debug\net6.0\kitchenApp.pdb
 D:\GitHub\Portafolio2\kitchenApp\obj\Debug\net6.0\kitchenApp.genruntimeconfig.cache
 D:\GitHub\Portafolio2\kitchenApp\obj\Debug\net6.0\ref\kitchenApp.dll
+D:\GitHub\Portafolio2\kitchenApp\bin\Debug\net6.0\Transbank.dll

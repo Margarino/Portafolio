@@ -1,11 +1,15 @@
-﻿namespace tableApi.Models.ViewModels
+﻿using tableApi.Controllers;
+
+namespace tableApi.Models.ViewModels
 {
     public class CartViewModel
     {
         
+        public List<CartItem>? CartItems { get; set; }
+        public decimal GrandTotal { get; set; }
+
         
-            public List<CartItem> CartItems { get; set; }
-            public decimal GrandTotal { get; set; }
-      
+        
+
     }
 }

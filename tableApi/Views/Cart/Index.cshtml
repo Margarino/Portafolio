@@ -1,5 +1,6 @@
 ﻿@model CartViewModel
 
+
 @{
         ViewData["Title"] = "Carrito de compras";
 }
@@ -16,6 +17,7 @@
                 </tr>
                 @foreach (var item in Model.CartItems)
                 {
+                    
                         <tr>
                                 <td>@item.ProductName</td>
                                 <td>@item.Quantity</td>
@@ -34,8 +36,9 @@
                 <tr>
                         <td class="text-right" colspan="4">
                                 <a class="btn btn-danger" asp-action="Clear">Vaciar Carrito</a>
-                                <a class="btn btn-primary" href="#">Pagar</a>
-                        </td>
+                                <a type="submit" class="btn btn-primary" asp-action="">Pagar</a>
+                            </td>
+                        
                 </tr>
         </table>
 
@@ -43,5 +46,5 @@
 }
 else
 {
-        <h3 class="display-4 text-center">Your cart is empty.</h3>
+        <h3 class="display-4 text-center">Tu carrito está vacio :(</h3>
 }
