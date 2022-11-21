@@ -9,14 +9,11 @@ using kitchenApp.Models;
 
 
 
-var builder = WebApplication.CreateBuilder(args);
-
-// Add services to the container.
-builder.Services.AddControllersWithViews();
-builder.Services.AddDbContext<ModelContext>(x => x.UseOracle("Data Source=(DESCRIPTION=(ADDRESS_LIST= (ADDRESS=(COMMUNITY=tcpcom.world)(PROTOCOL=tcp)(HOST=localhost)(PORT=1521)))(CONNECT_DATA=(SID=xe))); User ID=testuser;Password=securepassword"));
+WebApplication.CreateBuilder(args).Services.AddControllersWithViews();
+WebApplication.CreateBuilder(args).Services.AddDbContext<ModelContext>(x => x.UseOracle("Data Source=(DESCRIPTION=(ADDRESS_LIST= (ADDRESS=(COMMUNITY=tcpcom.world)(PROTOCOL=tcp)(HOST=localhost)(PORT=1521)))(CONNECT_DATA=(SID=xe))); User ID=testuser;Password=securepassword"));
 
 
-var app = builder.Build();
+var app = WebApplication.CreateBuilder(args).Build();
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
