@@ -1,0 +1,28 @@
+﻿@model IEnumerable<Plato>
+
+@{
+        ViewData["Title"] = "Platos";
+}
+
+<h1>Platos</h1>
+
+<div class="row">
+        @foreach (var item in Model)
+        {
+                <div class="col-4">
+                        
+                        <h4>@item.Nombreplato</h4>
+                        <div>
+                                @Html.Raw(item.DescripcionPlato)
+                        </div>
+                        <p>
+                                @item.Valorplato.ToString("C2")
+                        </p>
+                        <p>
+                                <a class="btn btn-primary" asp-controller="Cart" asp-action="AddPlato" asp-route-id="@item.Idplato">Agregar al carro</a>
+                        </p>
+                </div>
+        }
+
+
+</div>
