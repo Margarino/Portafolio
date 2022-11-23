@@ -17,12 +17,17 @@ namespace clientwebapp.Models
         }
 
         public virtual DbSet<Adm> Adms { get; set; } = null!;
+        public virtual DbSet<Bebidum> Bebida { get; set; } = null!;
+        public virtual DbSet<Egreso> Egresos { get; set; } = null!;
         public virtual DbSet<Empleado> Empleados { get; set; } = null!;
+        public virtual DbSet<Empleado2> Empleado2s { get; set; } = null!;
         public virtual DbSet<Ingrediente> Ingredientes { get; set; } = null!;
+        public virtual DbSet<Ingreso> Ingresos { get; set; } = null!;
         public virtual DbSet<Mesa> Mesas { get; set; } = null!;
         public virtual DbSet<Orden> Ordens { get; set; } = null!;
         public virtual DbSet<Pedido> Pedidos { get; set; } = null!;
         public virtual DbSet<Plato> Platos { get; set; } = null!;
+        public virtual DbSet<Producto> Productos { get; set; } = null!;
         public virtual DbSet<Recetum> Receta { get; set; } = null!;
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
@@ -62,6 +67,56 @@ namespace clientwebapp.Models
                     .HasConstraintName("FK_ADM");
             });
 
+            modelBuilder.Entity<Bebidum>(entity =>
+            {
+                entity.HasKey(e => e.Idbebida);
+
+                entity.ToTable("BEBIDA");
+
+                entity.Property(e => e.Idbebida)
+                    .HasColumnType("NUMBER")
+                    .ValueGeneratedOnAdd()
+                    .HasColumnName("IDBEBIDA");
+
+                entity.Property(e => e.Cantidadbebida)
+                    .HasColumnType("NUMBER")
+                    .HasColumnName("CANTIDADBEBIDA");
+
+                entity.Property(e => e.Nombrebebida)
+                    .HasMaxLength(20)
+                    .IsUnicode(false)
+                    .HasColumnName("NOMBREBEBIDA");
+
+                entity.Property(e => e.Valorbebida)
+                    .HasColumnType("NUMBER")
+                    .HasColumnName("VALORBEBIDA");
+            });
+
+            modelBuilder.Entity<Egreso>(entity =>
+            {
+                entity.HasKey(e => e.Idegreso);
+
+                entity.ToTable("EGRESO");
+
+                entity.Property(e => e.Idegreso)
+                    .HasColumnType("NUMBER")
+                    .ValueGeneratedOnAdd()
+                    .HasColumnName("IDEGRESO");
+
+                entity.Property(e => e.Descripcionegreso)
+                    .HasMaxLength(250)
+                    .IsUnicode(false)
+                    .HasColumnName("DESCRIPCIONEGRESO");
+
+                entity.Property(e => e.Fechaegreso)
+                    .HasColumnType("DATE")
+                    .HasColumnName("FECHAEGRESO");
+
+                entity.Property(e => e.Montoegreso)
+                    .HasColumnType("NUMBER")
+                    .HasColumnName("MONTOEGRESO");
+            });
+
             modelBuilder.Entity<Empleado>(entity =>
             {
                 entity.HasKey(e => e.Rut);
@@ -84,6 +139,32 @@ namespace clientwebapp.Models
                     .HasColumnName("NOMBRE");
             });
 
+            modelBuilder.Entity<Empleado2>(entity =>
+            {
+                entity.HasNoKey();
+
+                entity.ToTable("EMPLEADO2");
+
+                entity.Property(e => e.DescripcionCargo)
+                    .HasMaxLength(100)
+                    .IsUnicode(false)
+                    .HasColumnName("DESCRIPCION_CARGO");
+
+                entity.Property(e => e.IdCargo)
+                    .HasColumnType("NUMBER(38)")
+                    .HasColumnName("ID_CARGO");
+
+                entity.Property(e => e.Nombre)
+                    .HasMaxLength(50)
+                    .IsUnicode(false)
+                    .HasColumnName("NOMBRE");
+
+                entity.Property(e => e.Rut)
+                    .HasMaxLength(12)
+                    .IsUnicode(false)
+                    .HasColumnName("RUT");
+            });
+
             modelBuilder.Entity<Ingrediente>(entity =>
             {
                 entity.HasKey(e => e.Idingrediente);
@@ -91,8 +172,13 @@ namespace clientwebapp.Models
                 entity.ToTable("INGREDIENTE");
 
                 entity.Property(e => e.Idingrediente)
-                    .HasColumnType("NUMBER(38)")
+                    .HasColumnType("NUMBER")
+                    .ValueGeneratedOnAdd()
                     .HasColumnName("IDINGREDIENTE");
+
+                entity.Property(e => e.Cantidad)
+                    .HasColumnType("NUMBER")
+                    .HasColumnName("CANTIDAD");
 
                 entity.Property(e => e.Nombreingrediente)
                     .HasMaxLength(50)
@@ -100,8 +186,38 @@ namespace clientwebapp.Models
                     .HasColumnName("NOMBREINGREDIENTE");
 
                 entity.Property(e => e.Precioingrediente)
-                    .HasColumnType("NUMBER(38)")
+                    .HasColumnType("NUMBER")
                     .HasColumnName("PRECIOINGREDIENTE");
+
+                entity.Property(e => e.Unidadmedida)
+                    .HasMaxLength(20)
+                    .IsUnicode(false)
+                    .HasColumnName("UNIDADMEDIDA");
+            });
+
+            modelBuilder.Entity<Ingreso>(entity =>
+            {
+                entity.HasKey(e => e.Idingreso);
+
+                entity.ToTable("INGRESO");
+
+                entity.Property(e => e.Idingreso)
+                    .HasColumnType("NUMBER")
+                    .ValueGeneratedOnAdd()
+                    .HasColumnName("IDINGRESO");
+
+                entity.Property(e => e.Descripcioningreso)
+                    .HasMaxLength(250)
+                    .IsUnicode(false)
+                    .HasColumnName("DESCRIPCIONINGRESO");
+
+                entity.Property(e => e.Fechaingreso)
+                    .HasColumnType("DATE")
+                    .HasColumnName("FECHAINGRESO");
+
+                entity.Property(e => e.Montoingreso)
+                    .HasColumnType("NUMBER")
+                    .HasColumnName("MONTOINGRESO");
             });
 
             modelBuilder.Entity<Mesa>(entity =>
@@ -122,6 +238,21 @@ namespace clientwebapp.Models
                     .HasMaxLength(50)
                     .IsUnicode(false)
                     .HasColumnName("ESTADOMESA");
+
+                entity.Property(e => e.Keeploggedin)
+                    .HasMaxLength(5)
+                    .IsUnicode(false)
+                    .HasColumnName("KEEPLOGGEDIN");
+
+                entity.Property(e => e.Password)
+                    .HasMaxLength(50)
+                    .IsUnicode(false)
+                    .HasColumnName("PASSWORD");
+
+                entity.Property(e => e.Supervisor)
+                    .HasMaxLength(50)
+                    .IsUnicode(false)
+                    .HasColumnName("SUPERVISOR");
             });
 
             modelBuilder.Entity<Orden>(entity =>
@@ -131,25 +262,26 @@ namespace clientwebapp.Models
                 entity.ToTable("ORDEN");
 
                 entity.Property(e => e.Idorden)
-                    .HasColumnType("NUMBER(38)")
+                    .HasColumnType("NUMBER")
+                    .ValueGeneratedOnAdd()
                     .HasColumnName("IDORDEN");
 
                 entity.Property(e => e.Contenidoorden)
-                    .HasMaxLength(250)
+                    .HasMaxLength(25)
                     .IsUnicode(false)
                     .HasColumnName("CONTENIDOORDEN");
 
-                entity.Property(e => e.Estadopedido)
+                entity.Property(e => e.Estadoorden)
                     .HasMaxLength(30)
                     .IsUnicode(false)
-                    .HasColumnName("ESTADOPEDIDO");
+                    .HasColumnName("ESTADOORDEN");
 
                 entity.Property(e => e.Idmesa)
-                    .HasColumnType("NUMBER(38)")
+                    .HasColumnType("NUMBER")
                     .HasColumnName("IDMESA");
 
                 entity.Property(e => e.Total)
-                    .HasColumnType("NUMBER(38)")
+                    .HasColumnType("NUMBER")
                     .HasColumnName("TOTAL");
 
                 entity.HasOne(d => d.IdmesaNavigation)
@@ -166,6 +298,7 @@ namespace clientwebapp.Models
 
                 entity.Property(e => e.Idpedido)
                     .HasColumnType("NUMBER(38)")
+                    .ValueGeneratedOnAdd()
                     .HasColumnName("IDPEDIDO");
 
                 entity.Property(e => e.Contpedido)
@@ -192,32 +325,107 @@ namespace clientwebapp.Models
 
                 entity.Property(e => e.Idplato)
                     .HasColumnType("NUMBER")
+                    .ValueGeneratedOnAdd()
                     .HasColumnName("IDPLATO");
 
-                entity.Property(e => e.Aforomaximo)
-                    .HasColumnType("NUMBER")
-                    .HasColumnName("AFOROMAXIMO");
-
-                entity.Property(e => e.Estadomesa)
+                entity.Property(e => e.DescripcionPlato)
                     .HasMaxLength(50)
                     .IsUnicode(false)
-                    .HasColumnName("ESTADOMESA");
+                    .HasColumnName("DESCRIPCION_PLATO");
+
+                entity.Property(e => e.Idreceta)
+                    .HasColumnType("NUMBER")
+                    .HasColumnName("IDRECETA");
+
+                entity.Property(e => e.Nombreplato)
+                    .HasMaxLength(50)
+                    .IsUnicode(false)
+                    .HasColumnName("NOMBREPLATO");
+
+                entity.Property(e => e.Valorplato)
+                    .HasColumnType("NUMBER")
+                    .HasColumnName("VALORPLATO");
+
+                entity.HasOne(d => d.IdrecetaNavigation)
+                    .WithMany(p => p.Platos)
+                    .HasForeignKey(d => d.Idreceta)
+                    .HasConstraintName("FK_IDRECETA");
+            });
+
+            modelBuilder.Entity<Producto>(entity =>
+            {
+                entity.HasKey(e => e.Idproducto);
+
+                entity.ToTable("PRODUCTO");
+
+                entity.Property(e => e.Idproducto)
+                    .HasColumnType("NUMBER")
+                    .ValueGeneratedOnAdd()
+                    .HasColumnName("IDPRODUCTO");
+
+                entity.Property(e => e.Cantidadproducto)
+                    .HasColumnType("NUMBER")
+                    .HasColumnName("CANTIDADPRODUCTO");
+
+                entity.Property(e => e.Descripcionproducto)
+                    .HasMaxLength(250)
+                    .IsUnicode(false)
+                    .HasColumnName("DESCRIPCIONPRODUCTO");
+
+                entity.Property(e => e.Valorproducto)
+                    .HasColumnType("NUMBER")
+                    .HasColumnName("VALORPRODUCTO");
             });
 
             modelBuilder.Entity<Recetum>(entity =>
             {
-                entity.HasNoKey();
+                entity.HasKey(e => e.Idreceta);
 
                 entity.ToTable("RECETA");
+
+                entity.Property(e => e.Idreceta)
+                    .HasColumnType("NUMBER")
+                    .ValueGeneratedOnAdd()
+                    .HasColumnName("IDRECETA");
 
                 entity.Property(e => e.Idingrediente)
                     .HasColumnType("NUMBER")
                     .HasColumnName("IDINGREDIENTE");
 
-                entity.Property(e => e.Idplato)
+                entity.Property(e => e.Idproducto)
                     .HasColumnType("NUMBER")
-                    .HasColumnName("IDPLATO");
+                    .HasColumnName("IDPRODUCTO");
+
+                entity.HasOne(d => d.IdingredienteNavigation)
+                    .WithMany(p => p.Receta)
+                    .HasForeignKey(d => d.Idingrediente)
+                    .HasConstraintName("FK_RECETA1");
+
+                entity.HasOne(d => d.IdproductoNavigation)
+                    .WithMany(p => p.Receta)
+                    .HasForeignKey(d => d.Idproducto)
+                    .HasConstraintName("FK_RECETA2");
             });
+
+            modelBuilder.HasSequence("INGRESOBEBIDA");
+
+            modelBuilder.HasSequence("INGRESOEGRESO");
+
+            modelBuilder.HasSequence("INGRESOINGEDIENTE");
+
+            modelBuilder.HasSequence("INGRESOINGRESO");
+
+            modelBuilder.HasSequence("INGRESOORDEN");
+
+            modelBuilder.HasSequence("INGRESOPEDIDO");
+
+            modelBuilder.HasSequence("INGRESOPLATO");
+
+            modelBuilder.HasSequence("INGRESOPRODUCTO");
+
+            modelBuilder.HasSequence("INGRESORECETA");
+
+            modelBuilder.HasSequence("PEDIDO_SEQ");
 
             OnModelCreatingPartial(modelBuilder);
         }

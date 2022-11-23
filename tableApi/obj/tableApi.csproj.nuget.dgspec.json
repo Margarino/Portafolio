@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "N:\\Repo\\Portafolio\\tableApi\\tableApi.csproj": {}
+    "D:\\GitHub\\Portafolio2\\tableApi\\tableApi.csproj": {}
   },
   "projects": {
-    "N:\\Repo\\Portafolio\\tableApi\\tableApi.csproj": {
+    "D:\\GitHub\\Portafolio2\\tableApi\\tableApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "N:\\Repo\\Portafolio\\tableApi\\tableApi.csproj",
+        "projectUniqueName": "D:\\GitHub\\Portafolio2\\tableApi\\tableApi.csproj",
         "projectName": "tableApi",
-        "projectPath": "N:\\Repo\\Portafolio\\tableApi\\tableApi.csproj",
-        "packagesPath": "C:\\Users\\iquir\\.nuget\\packages\\",
-        "outputPath": "N:\\Repo\\Portafolio\\tableApi\\obj\\",
+        "projectPath": "D:\\GitHub\\Portafolio2\\tableApi\\tableApi.csproj",
+        "packagesPath": "C:\\Users\\fried\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHub\\Portafolio2\\tableApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\iquir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\fried\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,6 +61,10 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
+            },
+            "TransbankSDK": {
+              "target": "Package",
+              "version": "[6.0.0, )"
             }
           },
           "imports": [
@@ -69,7 +73,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -81,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

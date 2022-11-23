@@ -1,0 +1,35 @@
+﻿@model tableApi.Models.Mesa;
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Login</title>
+</head>
+<body>
+    <form asp-controller="Access" asp-action="Login" method="post">
+        <h1>Login</h1>
+        <input type="text" placeholder="User" asp-for="Supervisor" asp-validation-for="supervisor"/>
+        <input type="password" placeholder="PassWord" asp-for="Password" asp-validation-for="password"/>
+
+        <label>
+        <input type="checkbox" asp-for="Keeploggedin" /> 
+            Dejarme Logeado
+        </label>
+        <button type="submit">Login</button>
+
+        @if (ViewData["ValidateMessage"] != null)
+        {
+            <br />
+            <br />
+            <label>@ViewData["ValidateMessage"]</label>
+        }
+
+    </form>
+</body>
+</html>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
